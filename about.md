@@ -7,8 +7,7 @@ permalink: /about/
 # Reinhardt Cagara
 
 ## Black Belt, Bboy, Mathmematician
-### Dancing to the rhythm of exploration through the physical and digital realms
-
+- Dancing to the rhythm of exploration through the physical and digital realms
 - Student of Life
 
 
