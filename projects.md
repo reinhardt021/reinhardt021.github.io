@@ -4,7 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-This should be a portfolio page which lists some of your coding accomplishments. Highlight screenshots of your Rotten Mangoes app, your Sinatra project, or other code which you've written which you want to showcase. If any of these projects are available online (e.g. Heroku, or some other hosting), link to them.
+
+This should be a portfolio page which lists some of your coding accomplishments. 
+Highlight screenshots of your Rotten Mangoes app, your Sinatra project, or other code which you've written which you want to showcase. 
+If any of these projects are available online (e.g. Heroku, or some other hosting), link to them.
 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
