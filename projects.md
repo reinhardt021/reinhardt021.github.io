@@ -5,7 +5,8 @@ permalink: /projects/
 ---
 
 <!-- NEED TO CHANGE PROJECT NAME TO GET ORIGINAL URL -->
-# [Rotten Mangoes](#)
+
+# [Rotten Mangoes](https://github.com/reinhardtcgr/rotten_mangoes)
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
       - film title
