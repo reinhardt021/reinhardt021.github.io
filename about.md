@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+![My Image]({{ site.url }}/assets/ReinhardtCagara.jpg)
 # Reinhardt Cagara
 
 ## Black Belt, Bboy, Mathmematician
