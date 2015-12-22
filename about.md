@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![My Image]({{ site.url }}/assets/ReinhardtCagara.jpg)
+![My Image]({{ site.url }}/assets/ReinhardtCagara.jpg){: .profile-pic}
 
 # Reinhardt Cagara
 
