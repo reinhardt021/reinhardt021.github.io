@@ -36,7 +36,8 @@ permalink: /projects/
 - built using Sinatra Framework
   - JavaScript / jQuery / CSS front-end
 
-In Progress:
+
+# In Progress
 - HungerCamp
   - built using Sinatra
 
