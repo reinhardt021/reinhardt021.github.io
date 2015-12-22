@@ -14,10 +14,10 @@ and any social networks on which you can be found.
   {% include icon-twitter.html username=site.twitter_username %}
 {% endif %}
 
-Consider integrating something like SimpleForm to get a contact form on the page.
+<!-- Consider integrating something like SimpleForm to get a contact form on the page
  - form goes here
  - add more
-
+ -->
 
 <!-- You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /

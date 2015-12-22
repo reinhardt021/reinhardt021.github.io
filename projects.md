@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-
-# [Rotten Mangoes](http://rotten-mangoes.herokuapp.com/)
+<!-- NEED TO CHANGE PROJECT NAME TO GET ORIGINAL URL -->
+# [Rotten Mangoes](#)
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
       - film title
