@@ -6,6 +6,11 @@ permalink: /projects/
 
 <!-- NEED TO CHANGE PROJECT NAME TO GET ORIGINAL URL -->
 
+# IMAGES COMING SOON TO A WEBSITE NEAR YOU
+- [ ] all projects will have screenshots
+- [ ] contact page will have a map / form
+- [ ] posts page will have image previews
+
 # [Rotten Mangoes](https://github.com/reinhardtcgr/rotten_mangoes)
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
