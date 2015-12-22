@@ -206,6 +206,8 @@ pre {
 }
 
 #profile-pic {
+    display: inline;
+    float: left;
     height: 200px;
     width: 200px;
     border: solid 3px grey;
