@@ -11,7 +11,7 @@ permalink: /projects/
 - [_] contact page will have a map / form
 - [_] posts page will have image previews
 
-# [Rotten Mangoes](https://github.com/reinhardtcgr/rotten_mangoes)[{% include icon-github.html%}](#)
+# [Rotten Mangoes](https://github.com/reinhardtcgr/rotten_mangoes)
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
       - film title
@@ -22,6 +22,7 @@ permalink: /projects/
       - and also leave a comment about the movie
     - Inspired by Rotten Tomatoes
     - Built with Ruby on Rails, CSS, and Bootstrap
+  - [{% include icon-github.html%}](https://github.com/reinhardtcgr/rotten_mangoes)
 
 # [Minimalist Music](https://minimalist-music.herokuapp.com/)
   - Minimalist Music wall available for the public
@@ -32,6 +33,7 @@ permalink: /projects/
     - users can leave reviews
     - users can add an upvote or downvote for songs that they know
     - built using Sinatra, HTML, CSS, Bootstrap
+  - [github](https://github.com/reinhardtcgr/music_wall_app)
 
 # [Confidant](https://confidant.herokuapp.com/)
 - public phone book / contact list type app
@@ -43,7 +45,7 @@ permalink: /projects/
 - first attempt at a Single Page App
   - front-end pulls all information from back-end using AJAX requests
   - Gravatar capabilities added for fun
-
+- [github](https://github.com/reinhardtcgr/confidant)
 
 # In Progress
 - HungerCamp
