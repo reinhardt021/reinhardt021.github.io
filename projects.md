@@ -33,14 +33,16 @@ permalink: /projects/
     - users can add an upvote or downvote for songs that they know
     - built using Sinatra, HTML, CSS, Bootstrap
 
-# Confidant
-- contact list type app
+# [Confidant](https://confidant.herokuapp.com/)
+- public phone book / contact list type app
   - can create new contacts
+  - can edit existing contacts
   - can list all contacts
-  - can show a specific contact given an ID
   - can find a specific contact by firstname, lastname, or email
-- built using Sinatra Framework
-  - JavaScript / jQuery / CSS front-end
+- built using Sinatra Framework / JavaScript / jQuery / CSS front-end / Bootstrap
+- first attempt at a Single Page App
+  - front-end pulls all information from back-end using AJAX requests
+  - Gravatar capabilities added for fun
 
 
 # In Progress
