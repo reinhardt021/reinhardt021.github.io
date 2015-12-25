@@ -9,9 +9,9 @@ permalink: /projects/
 - [_] contact page will have a map / form
 - [_] posts page will have image previews
 
-
 <!-- NEED TO CHANGE PROJECT NAME TO GET ORIGINAL URL -->
-# [Rotten Mangoes](https://github.com/reinhardtcgr/rotten_mangoes)
+
+# [ROTTEN MANGOES](https://github.com/reinhardtcgr/rotten_mangoes)
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
       - film title
@@ -24,7 +24,7 @@ permalink: /projects/
     - Built with Ruby on Rails, CSS, and Bootstrap
   - [Rotten Mangoes Github Page](https://github.com/reinhardtcgr/rotten_mangoes)
 
-# [Minimalist Music](https://minimalist-music.herokuapp.com/)
+# [MINIMALIST MUSIC](https://minimalist-music.herokuapp.com/)
   - Minimalist Music wall available for the public
     - allows visitors to view a list of songs
     - users can add more songs to the list as desired
@@ -35,7 +35,7 @@ permalink: /projects/
     - built using Sinatra, HTML, CSS, Bootstrap
   - [Minimialist Music Github Page](https://github.com/reinhardtcgr/music_wall_app)
 
-# [Confidant](https://confidant.herokuapp.com/)
+# [CONFIDANT](https://confidant.herokuapp.com/)
 - public phone book / contact list type app
   - can create new contacts
   - can edit existing contacts
