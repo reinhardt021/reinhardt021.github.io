@@ -11,7 +11,7 @@ permalink: /projects/
 - [_] contact page will have a map / form
 - [_] posts page will have image previews
 
-# [Rotten Mangoes](https://github.com/reinhardtcgr/rotten_mangoes)
+# [Rotten Mangoes](https://github.com/reinhardtcgr/rotten_mangoes)[{% include icon-github.html%}](#)
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
       - film title
