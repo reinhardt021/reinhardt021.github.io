@@ -4,13 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
-<!-- NEED TO CHANGE PROJECT NAME TO GET ORIGINAL URL -->
-
 # IMAGES COMING SOON TO A WEBSITE NEAR YOU
 - [_] all projects will have screenshots
 - [_] contact page will have a map / form
 - [_] posts page will have image previews
 
+
+<!-- NEED TO CHANGE PROJECT NAME TO GET ORIGINAL URL -->
 # [Rotten Mangoes](https://github.com/reinhardtcgr/rotten_mangoes)
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
@@ -47,7 +47,8 @@ permalink: /projects/
   - Gravatar capabilities added for fun
 - [Confidant Github Page](https://github.com/reinhardtcgr/confidant)
 
-# In Progress
-- HungerCamp
-  - built using Sinatra
+
+
+#### More projects in the works ... 
+
 
