@@ -9,9 +9,8 @@ permalink: /projects/
 - [_] contact page will have a map / form
 - [_] posts page will have image previews
 
-<!-- NEED TO CHANGE PROJECT NAME TO GET ORIGINAL URL -->
 
-# [ROTTEN MANGOES](https://github.com/reinhardtcgr/rotten_mangoes)
+# [ROTTEN MANGOED](http://rotten-mangoed.herokuapp.com/)
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
       - film title
