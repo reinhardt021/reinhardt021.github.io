@@ -205,22 +205,6 @@ pre {
     }
 }
 
-#profile-pic {
-    height: 200px;
-    width: 200px;
-    border: solid 3px grey;
-    border-radius: 50%;
-    transition: all 2s linear;
-}
-
-#profile-pic:hover {
-    border: solid 3px white;
-    border-radius: 50%;
-    transform: scale(2.5) rotate(360deg);
-    // margin-top: 150px;
-    margin-left: 150px;
-}
-
 
 
 
