@@ -52,7 +52,9 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-
+.profile-box {
+    float: left;
+}
 
 #profile-pic {
     height: 200px;
@@ -71,5 +73,6 @@ $on-laptop:        800px;
     margin-left: 150px;
     opacity: 1.0;
 }
+
 
 
