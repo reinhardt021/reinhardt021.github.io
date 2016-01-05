@@ -8,7 +8,7 @@ permalink: /about/
 
 # Reinhardt Cagara
 
-## Black Belt, Bboy, Mathmematician
+### Black Belt, Bboy, Mathmematician
 - Dancing to the rhythm of exploration through the physical and digital realms
 - Student of Life
 - Lover of Lists
@@ -19,6 +19,7 @@ permalink: /about/
 [jekyll](https://github.com/jekyll/jekyll)
  -->
 
+---------
 ### Sites I visit often
 
 #### LEARN
@@ -61,6 +62,6 @@ permalink: /about/
 - <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
 
 
-
-'<span class="post_sig"><em>learn. love. live.
-- autumn</em></span>'
+---------
+<span class="post_sig"><em>learn. love. live.
+- autumn</em></span>
