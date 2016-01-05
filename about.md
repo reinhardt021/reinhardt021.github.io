@@ -20,18 +20,19 @@ permalink: /about/
  -->
 
 ### Sites I visit often
+
 #### LEARN
-<a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a>
-<a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
-<a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
-<a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
+- <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a>
+- <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
+- <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
+- <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
 
 #### TECH
-<a href="http://www.fullstackradio.com/">Full Stack Radio</a>
-<a href="https://devchat.tv/js-jabber">Javascript Jabber</a>
-<a href="http://www.se-radio.net/">Software Engineering Radio</a>
-<a href="https://developertea.com/">Developer Tea</a>
-<a href="https://news.ycombinator.com/"> Hacker News </a>
+- <a href="http://www.fullstackradio.com/">Full Stack Radio</a>
+- <a href="https://devchat.tv/js-jabber">Javascript Jabber</a>
+- <a href="http://www.se-radio.net/">Software Engineering Radio</a>
+- <a href="https://developertea.com/">Developer Tea</a>
+- <a href="https://news.ycombinator.com/"> Hacker News </a>
 <a href="http://www.theverge.com/"> the Verge </a>
 <a href="http://www.wired.com/"> Wired </a>
 <a href="http://www.gizmodo.com/"> Gizmodo </a>
