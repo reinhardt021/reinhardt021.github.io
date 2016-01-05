@@ -5,15 +5,8 @@ permalink: /about/
 ---
 
 
-<div>
-
-<div class="profile-box">
-  
 ![My Image]({{ site.url }}/assets/ReinhardtCagara.jpg){: #profile-pic}
 
-</div>
-<div class="profile-box">
-  
 ## Reinhardt Cagara
 
 ### Black Belt, Bboy, Mathmematician
@@ -22,13 +15,11 @@ permalink: /about/
 - Lover of Lists
 - Admirer of Alliteration
 
-</div>
 
 <!-- You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
  -->
-</div>
 
 ---------
 
