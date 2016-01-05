@@ -33,33 +33,34 @@ permalink: /about/
 - <a href="http://www.se-radio.net/">Software Engineering Radio</a>
 - <a href="https://developertea.com/">Developer Tea</a>
 - <a href="https://news.ycombinator.com/"> Hacker News </a>
-<a href="http://www.theverge.com/"> the Verge </a>
-<a href="http://www.wired.com/"> Wired </a>
-<a href="http://www.gizmodo.com/"> Gizmodo </a>
-<a href="http://www.io9.com/"> Io9 </a>
-<a href="http://www.technologyreview.com/"> MIT Tech Review </a>
-<a href="http://news.mit.edu/"> MIT news </a>
-<a href="http://www.techvibes.com/global"> TechVibes </a>
+- <a href="http://www.theverge.com/"> the Verge </a>
+- <a href="http://www.wired.com/"> Wired </a>
+- <a href="http://www.gizmodo.com/"> Gizmodo </a>
+- <a href="http://www.io9.com/"> Io9 </a>
+- <a href="http://www.technologyreview.com/"> MIT Tech Review </a>
+- <a href="http://news.mit.edu/"> MIT news </a>
+- <a href="http://www.techvibes.com/global"> TechVibes </a>
 
 #### SIMPLIFY
-<a href="http://www.treehugger.com/"> Treehugger </a>
-<a href="http://www.lifehacker.com/"> Lifehacker </a>
-<a href="http://www.lifeedited.com/"> Lifeedited </a>
-<a href="http://www.http://zenhabits.net/"> Zen Habits </a>
-<a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
-<a href="http://bemorewithless.com/"> Be More With Less </a>
+- <a href="http://www.treehugger.com/"> Treehugger </a>
+- <a href="http://www.lifehacker.com/"> Lifehacker </a>
+- <a href="http://www.lifeedited.com/"> Lifeedited </a>
+- <a href="http://www.http://zenhabits.net/"> Zen Habits </a>
+- <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
+- <a href="http://bemorewithless.com/"> Be More With Less </a>
 
 #### DESIGN
-<a href="https://bigmedium.com/"> Big Medium </a>
-<a href="http://www.core77.com/"> Core77 - Industrial Design </a>
-<a href="http://www.dezeen.com/"> Dezeen </a>
-<a href="http://design-milk.com/"> Design Milk </a>
+- <a href="https://bigmedium.com/"> Big Medium </a>
+- <a href="http://www.core77.com/"> Core77 - Industrial Design </a>
+- <a href="http://www.dezeen.com/"> Dezeen </a>
+- <a href="http://design-milk.com/"> Design Milk </a>
 
 #### MUSE
-<a href="http://fastcompany.com/">Fast Company</a>
-<a href="http://www.inc.com/">Inc</a>
-<a href= "http://www.entrepreneur.com/">Entrepreneur</a>
+- <a href="http://fastcompany.com/">Fast Company</a>
+- <a href="http://www.inc.com/">Inc</a>
+- <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
 
 
-<span class="post_sig"><em>learn. love. live.
-- autumn</em></span>
+
+'<span class="post_sig"><em>learn. love. live.
+- autumn</em></span>'
