@@ -65,6 +65,5 @@ permalink: /about/
 - <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
 
 
----------
-<span class="post_sig"><em>learn. love. live.
-- autumn</em></span>
+
+> _learn love live - autumn_
