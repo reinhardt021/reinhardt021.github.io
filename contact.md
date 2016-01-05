@@ -10,7 +10,7 @@ Otherwise I am off exploring the world on another adventure.
 
 Best way to reach me:
 
- - reinhardt.cgr@gmail.com
+ - <a href="mailto:{{ site.email }}">{{ site.email }}</a>
  - {% if site.github_username %} {% include icon-github.html username=site.github_username %} {% endif %}
  - {% if site.twitter_username %} {% include icon-twitter.html username=site.twitter_username %} {% endif %}
 
