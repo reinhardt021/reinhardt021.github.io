@@ -51,16 +51,16 @@ permalink: /about/
 - <a href="http://www.lifeedited.com/"> Lifeedited </a>
 - <a href="http://www.zenhabits.net/"> Zen Habits </a>
 - <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
-- <a href="http://bemorewithless.com/"> Be More With Less </a>
+- <a href="http://www.bemorewithless.com/"> Be More With Less </a>
 
 #### DESIGN
-- <a href="https://bigmedium.com/"> Big Medium </a>
+- <a href="https://www.bigmedium.com/"> Big Medium </a>
 - <a href="http://www.core77.com/"> Core77 - Industrial Design </a>
 - <a href="http://www.dezeen.com/"> Dezeen </a>
-- <a href="http://design-milk.com/"> Design Milk </a>
+- <a href="http://www.design-milk.com/"> Design Milk </a>
 
 #### MUSE
-- <a href="http://fastcompany.com/">Fast Company</a>
+- <a href="http://www.fastcompany.com/">Fast Company</a>
 - <a href="http://www.inc.com/">Inc</a>
 - <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
 
