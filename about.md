@@ -49,7 +49,7 @@ permalink: /about/
 - <a href="http://www.treehugger.com/"> Treehugger </a>
 - <a href="http://www.lifehacker.com/"> Lifehacker </a>
 - <a href="http://www.lifeedited.com/"> Lifeedited </a>
-- <a href="http://www.http://zenhabits.net/"> Zen Habits </a>
+- <a href="http://www.zenhabits.net/"> Zen Habits </a>
 - <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
 - <a href="http://bemorewithless.com/"> Be More With Less </a>
 
