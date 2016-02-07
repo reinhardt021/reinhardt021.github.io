@@ -52,9 +52,16 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+body {
+    background-image: url('../assets/symphony.png');
+}
 
-header {
+.site-header {
   background-color: rgba(0, 0, 0, 0.2); 
+  color: white;
+}
+
+.site-header a {
   color: white;
 }
 
