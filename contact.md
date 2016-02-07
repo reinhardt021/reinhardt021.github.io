@@ -4,6 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
+![Vancouver Andy Livingstone Park]({{ site.url }}/assets/VAN_20160123_031328.jpg){: #contact-pic}
+
+
 The best places to find me are either in Vancouver / Mississauga / Waterloo.
 
 Otherwise I am off exploring the world on another adventure.
