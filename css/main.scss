@@ -68,15 +68,15 @@ body {
 #profile-pic {
     height: 200px;
     width: 200px;
-    border: solid 3px grey;
+    border: solid 3px white;
     border-radius: 50%;
-    transition: opacity 2s linear;
+    transition: all 2s ease;
     opacity: 0.5;
     float: right;
 }
 
 #profile-pic:hover {
-    border: solid 3px white;
+    border: solid 3px lightgrey;
     // border-radius: 50%;
     // transform: scale(2.5) rotate(360deg);
     // margin-top: 150px;
