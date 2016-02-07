@@ -7,7 +7,7 @@ permalink: /about/
 
 ![My Image]({{ site.url }}/assets/ReinhardtCagara.jpg){: #profile-pic}
 
-## Reinhardt Cagara
+## <a href="https://www.dropbox.com/s/8edipfuhuxvkek8/Reinhardt%20Cagara.pdf?dl=0">Reinhardt Cagara</a>
 
 ### Black Belt, Bboy, Mathmematician
 - Dancing to the rhythm of exploration through the physical and digital realms
@@ -23,7 +23,7 @@ permalink: /about/
 
 ---------
 
-### Favourite Quotes
+### FAV QUOTES
 
 - "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
 - "Strive not to be a person of success, but a person of value." - Albert Einstein
@@ -34,7 +34,7 @@ permalink: /about/
 
 ---------
 
-### Sites I visit often
+### FAV SITES
 
 #### LEARN
 - <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a>
@@ -74,5 +74,7 @@ permalink: /about/
 - <a href="http://www.fastcompany.com/">Fast Company</a>
 - <a href="http://www.inc.com/">Inc</a>
 - <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
+
+---------
 
 > _learn love live - autumn_

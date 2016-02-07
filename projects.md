@@ -9,6 +9,8 @@ permalink: /projects/
 - [_] contact page will have a map / form
 - [_] posts page will have image previews
 
+
+
 #### More projects in the works ... 
 
 ---------
