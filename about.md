@@ -26,7 +26,7 @@ permalink: /about/
 
 ### FAV QUOTES
 
-- "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
+- > "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
 - "Strive not to be a person of success, but a person of value." - Albert Einstein
 - "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
 - "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
