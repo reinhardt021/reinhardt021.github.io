@@ -4,13 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# IMAGES COMING SOON TO A WEBSITE NEAR YOU
-- [_] all projects will have screenshots
-- [_] contact page will have a map / form
-- [_] posts page will have image previews
-
-
-![Loci]({{ site.url }}/assets/projects-pic.jpg){: #projects-pic}
+![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}
 
 ### More projects in the works ... 
 
