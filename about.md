@@ -27,11 +27,11 @@ permalink: /about/
 ### FAV QUOTES
 
 - > "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
-- "Strive not to be a person of success, but a person of value." - Albert Einstein
-- "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
-- "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
-- "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
-- "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj 
+- > "Strive not to be a person of success, but a person of value." - Albert Einstein
+- > "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
+- > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
+- > "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
+- > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj 
 
 ---------
 
