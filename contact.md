@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-The best places to find me are either in Vancouver || Mississauga || Waterloo.
+The best places to find me are either in Vancouver / Mississauga / Waterloo.
 
 Otherwise I am off exploring the world on another adventure.
 
