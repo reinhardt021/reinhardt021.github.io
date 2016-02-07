@@ -32,7 +32,8 @@ permalink: /about/
 ### FAV SITES
 
 #### LEARN
-- <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a> :: <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a> :: <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a> :: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
+- <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a> :: <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a> 
+- <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a> :: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
 
 #### TECH
 - <a href="https://news.ycombinator.com/"> Hacker News </a>
@@ -54,7 +55,3 @@ permalink: /about/
 
 #### MUSE
 - <a href= "http://www.entrepreneur.com/">Entrepreneur</a> :: <a href="http://www.fastcompany.com/">Fast Company</a> :: <a href="http://www.inc.com/">Inc</a>
-
----------
-
-> .: _learn love live - autumn_ :.
