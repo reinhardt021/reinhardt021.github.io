@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
 
 ![My Image]({{ site.url }}/assets/ReinhardtCagara.jpg){: #profile-pic}
 
