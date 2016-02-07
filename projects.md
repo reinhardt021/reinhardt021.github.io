@@ -10,8 +10,9 @@ permalink: /projects/
 - [_] posts page will have image previews
 
 
+![Loci]({{ site.url }}/assets/projects-pic.jpg){: #projects-pic}
 
-#### More projects in the works ... 
+### More projects in the works ... 
 
 ---------
 
