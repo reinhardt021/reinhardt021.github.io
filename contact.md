@@ -4,15 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-The best places to find me are either in Vancouver / Mississauga / Waterloo.
+The best places to find me are either in Vancouver || Mississauga || Waterloo.
 
 Otherwise I am off exploring the world on another adventure.
 
-Best way to reach me:
-
- - <a href="mailto:{{ site.email }}">{{ site.email }}</a>
- - {% if site.github_username %} {% include icon-github.html username=site.github_username %} {% endif %}
- - {% if site.twitter_username %} {% include icon-twitter.html username=site.twitter_username %} {% endif %}
+Reach me @ <a href="mailto:{{ site.email }}">{{ site.email }}</a> || {% if site.github_username %} {% include icon-github.html username=site.github_username %} {% endif %} || {% if site.twitter_username %} {% include icon-twitter.html username=site.twitter_username %} {% endif %}
 
 <!-- Consider integrating something like SimpleForm to get a contact form on the page
  - form goes here

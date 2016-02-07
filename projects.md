@@ -9,6 +9,8 @@ permalink: /projects/
 - [_] contact page will have a map / form
 - [_] posts page will have image previews
 
+#### More projects in the works ... 
+
 ---------
 
 # [ROTTEN MANGOED](http://rotten-mangoed.herokuapp.com/)
@@ -52,7 +54,6 @@ permalink: /projects/
 - [Confidant Github Page](https://github.com/reinhardtcgr/confidant)
 
 ---------
-
-#### More projects in the works ... 
+...
 
 
