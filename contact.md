@@ -8,7 +8,7 @@ The best places to find me are either in Vancouver / Mississauga / Waterloo.
 
 Otherwise I am off exploring the world on another adventure.
 
-Reach me @ <a href="http://linkedin.com/in/reinhardtcagara">/in/reinhardtcagara</a> || {% if site.github_username %} {% include icon-github.html username=site.github_username %} {% endif %} || {% if site.twitter_username %} {% include icon-twitter.html username=site.twitter_username %} {% endif %}
+Reach me @ {% if site.linkedin_username %}{% include icon-linkedin.html username=site.linkedin_username %}{% endif %} || {% if site.github_username %}{% include icon-github.html username=site.github_username %}{% endif %} || {% if site.twitter_username %}{% include icon-twitter.html username=site.twitter_username %}{% endif %}
 
 <!-- Consider integrating something like SimpleForm to get a contact form on the page
  - form goes here
