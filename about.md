@@ -57,4 +57,4 @@ permalink: /about/
 
 ---------
 
-> _.: learn love live - autumn :._
+> .: _learn love live - autumn_ :.
