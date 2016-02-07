@@ -58,12 +58,12 @@ permalink: /about/
 - <a href="https://developertea.com/">Developer Tea</a>
 
 #### SIMPLIFY
-- <a href="http://www.treehugger.com/"> Treehugger </a>
-- <a href="http://www.lifehacker.com/"> Lifehacker </a>
-- <a href="http://www.lifeedited.com/"> Lifeedited </a>
 - <a href="http://www.zenhabits.net/"> Zen Habits </a>
-- <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
 - <a href="http://www.bemorewithless.com/"> Be More With Less </a>
+- <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
+- <a href="http://www.lifeedited.com/"> Lifeedited </a>
+- <a href="http://www.lifehacker.com/"> Lifehacker </a>
+- <a href="http://www.treehugger.com/"> Treehugger </a>
 
 #### DESIGN
 - <a href="http://www.core77.com/"> Core77 - Industrial Design </a>
