@@ -45,6 +45,12 @@ permalink: /about/
 - <a href="http://www.fullstackradio.com/">Full Stack Radio</a>
 - <a href="http://www.se-radio.net/">Software Engineering Radio</a>
 - <a href="https://developertea.com/">Developer Tea</a>
+- <a href="http://aitopics.org/news">AI Topics in the News</a>
+- <a href="http://diamandis.com/abundance-insider">Diamandis: Abundance Insider</a>
+- <a href="http://diamandis.com/tech-blog">Diamandis: Tech Blog</a>
+- <a href="http://velocity.uwaterloo.ca/">Velocity</a>
+
+
 
 #### SIMPLIFY
 - <a href="http://www.zenhabits.net/"> Zen Habits </a> :: <a href="http://www.bemorewithless.com/"> Be More With Less </a> :: <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
