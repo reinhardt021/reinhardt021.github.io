@@ -55,12 +55,6 @@ permalink: /about/
 - <a href="http://highline.vc/blog">Highline: Blog</a>
 
 
-
-
-
-
-
-
 #### SIMPLIFY
 - <a href="http://www.zenhabits.net/"> Zen Habits </a> :: <a href="http://www.bemorewithless.com/"> Be More With Less </a> :: <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
 - <a href="http://www.lifeedited.com/"> Lifeedited </a> :: <a href="http://www.lifehacker.com/"> Lifehacker </a> :: <a href="http://www.treehugger.com/"> Treehugger </a>
