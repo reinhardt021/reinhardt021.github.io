@@ -49,6 +49,15 @@ permalink: /about/
 - <a href="http://diamandis.com/abundance-insider">Diamandis: Abundance Insider</a>
 - <a href="http://diamandis.com/tech-blog">Diamandis: Tech Blog</a>
 - <a href="http://velocity.uwaterloo.ca/">Velocity</a>
+- <a href="http://news.communitech.ca/">Communitech</a>
+- <a href="http://makezine.com/">Make: We are all Makers</a>
+- <a href="https://www.hackerrank.com/domains">HackerRank</a>
+- <a href="http://highline.vc/blog">Highline: Blog</a>
+
+
+
+
+
 
 
 
