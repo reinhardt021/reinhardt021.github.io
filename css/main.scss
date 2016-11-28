@@ -57,7 +57,7 @@ body {
 }
 
 .site-header {
-  background-color: rgba(0, 0, 0, 0.0);
+  background-color: rgba(0, 0, 0, 0.1);
   border: none;
   // color: white;
 }
@@ -71,7 +71,7 @@ body {
 // }
 
 .site-nav {
-  float: none;
+  float: right;
   margin: 0 auto;
   display: inline-block;
   text-align: center;
