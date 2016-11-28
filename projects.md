@@ -6,11 +6,11 @@ permalink: /projects/
 
 ![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}
 
-### More projects in the works ... 
+### More projects in the works ...
 
 ---------
-
-# [ROTTEN MANGOED](http://rotten-mangoed.herokuapp.com/)
+<!-- # [ROTTEN MANGOED](http://rotten-mangoed.herokuapp.com/) -->
+# ROTTEN MANGOED
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
       - film title
@@ -24,8 +24,8 @@ permalink: /projects/
   - [Rotten Mangoes Github Page](https://github.com/reinhardtcgr/rotten_mangoes)
 
 ---------
-
-# [MINIMALIST MUSIC](https://minimalist-music.herokuapp.com/)
+<!-- # [MINIMALIST MUSIC](https://minimalist-music.herokuapp.com/) -->
+# MINIMALIST MUSIC
   - Minimalist Music wall available for the public
     - allows visitors to view a list of songs
     - users can add more songs to the list as desired
@@ -37,8 +37,8 @@ permalink: /projects/
   - [Minimialist Music Github Page](https://github.com/reinhardtcgr/music_wall_app)
 
 ---------
-
-# [CONFIDANT](https://confidant.herokuapp.com/)
+<!-- # [CONFIDANT](https://confidant.herokuapp.com/) -->
+# CONFIDANT
 - public phone book / contact list type app
   - can create new contacts
   - can edit existing contacts
@@ -52,5 +52,3 @@ permalink: /projects/
 
 ---------
 ...
-
-
