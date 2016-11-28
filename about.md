@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: reinhardt
 permalink: /about/
 ---
 
@@ -25,14 +25,14 @@ permalink: /about/
 - > "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
 - > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
 - > "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
-- > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj 
+- > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj
 
 ---------
 
 ### FAV SITES
 
 #### LEARN
-- <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a> :: <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a> 
+- <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a> :: <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
 - <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a> :: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
 
 #### TECH

@@ -57,12 +57,39 @@ body {
 }
 
 .site-header {
-  background-color: rgba(0, 0, 0, 0.1); 
-  color: white;
+  background-color: rgba(0, 0, 0, 0.0);
+  border: none;
+  // color: white;
 }
 
 .site-header a {
-  color: white;
+  // color: white;
+}
+
+// .wrapper {
+//   text-align: center;
+// }
+
+.site-nav {
+  float: none;
+  margin: 0 auto;
+  display: inline-block;
+  text-align: center;
+}
+
+.site-nav ul {
+  margin: auto 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.site-footer {
+  border: none;
+}
+
+.site-footer .wrapper {
+  border-top: 1px solid #e8e8e8;
+  padding-top: 30px;
 }
 
 #adventure {
