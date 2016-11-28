@@ -1,7 +1,7 @@
 ---
 layout: page
 title: connect
-permalink: /contact/
+permalink: /
 ---
 
 ![Vancouver Andy Livingstone Park]({{ site.url }}/assets/VAN_20160123_031328.jpg){: #contact-pic}
