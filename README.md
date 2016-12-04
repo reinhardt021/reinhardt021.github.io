@@ -1,15 +1,17 @@
 # Reinhardt Cagara personal projects site
 
+## Local Setup
+
+note that you must have jekyll installed locally
+```
+sudo gem install jekyll bundler
+```
+
 ## Run the Server
 
 Run the following command within the Command Line Interface
 ```
 jekyll serve
-```
-
-note that you must have jekyll installed locally
-```
-sudo gem install jekyll bundler
 ```
 
 ## View the Application
