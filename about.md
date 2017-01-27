@@ -7,6 +7,7 @@ permalink: /about/
 ![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
 
 <!-- ![My Image]({{ site.url }}/assets/ReinhardtCagara.jpg){: #profile-pic} -->
+<p align="center">
 
 ## <a href="https://www.dropbox.com/s/8edipfuhuxvkek8/Reinhardt%20Cagara.pdf?dl=0">Reinhardt Cagara</a>
 
@@ -16,6 +17,7 @@ permalink: /about/
 - Lover of Lists
 - Admirer of Alliteration
 
+</p>
 ---------
 
 ### FAV QUOTES
@@ -33,13 +35,11 @@ permalink: /about/
 
 ---------
 
-### FAV SITES
-
 #### LEARN
 - <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a> :: <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
 - <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a> :: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
 
-#### TECH
+#### TOOLS
 - <a href="http://the-knowledge.org/en-gb/"> The Knowledge: How to Rebuild the World From Scratch </a>
 - <a href="https://www.newscientist.com/"> New Scientist </a>
 - <a href="http://www.nature.com/"> Nature </a>
