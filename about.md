@@ -26,19 +26,36 @@ permalink: /about/
 - > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj
 - > "If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present." - Lao Tzu
 - > "Let go your earthly tether. Enter the void. Empty and become wind." - Laghima
-*~ words to live by ~*
+- > *~ words to live by ~*
 
 ---------
 
-**LEARN**: <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a> :: <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a> :: <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a> :: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
+**LEARN** ::
+- <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
+- <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
+- <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a>
+- <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
 
-**SIMPLIFY**: <a href="http://www.zenhabits.net/"> Zen Habits </a> :: <a href="http://www.bemorewithless.com/"> Be More With Less </a> :: <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a> :: <a href="http://www.lifeedited.com/"> Lifeedited </a> :: <a href="http://www.lifehacker.com/"> Lifehacker </a> :: <a href="http://www.treehugger.com/"> Treehugger </a>
+**SIMPLIFY** ::
+- <a href="http://www.zenhabits.net/"> Zen Habits </a>
+- <a href="http://www.bemorewithless.com/"> Be More With Less </a>
+- <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
+- <a href="http://www.lifeedited.com/"> Lifeedited </a>
+- <a href="http://www.lifehacker.com/"> Lifehacker </a>
+- <a href="http://www.treehugger.com/"> Treehugger </a>
 
-**DESIGN**: <a href="http://www.core77.com/"> Core77 - Industrial Design </a> :: <a href="http://www.design-milk.com/"> Design Milk </a> :: <a href="http://www.dezeen.com/"> Dezeen </a> :: <a href="https://www.bigmedium.com/"> Big Medium </a>
+**DESIGN** ::
+- <a href="http://www.core77.com/"> Core77 - Industrial Design </a>
+- <a href="http://www.design-milk.com/"> Design Milk </a>
+- <a href="http://www.dezeen.com/"> Dezeen </a>
+- <a href="https://www.bigmedium.com/"> Big Medium </a>
 
-**MUSE**: <a href= "http://www.entrepreneur.com/">Entrepreneur</a> :: <a href="http://www.fastcompany.com/">Fast Company</a> :: <a href="http://www.inc.com/">Inc</a>
+**MUSE** ::
+- <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
+- <a href="http://www.fastcompany.com/">Fast Company</a>
+- <a href="http://www.inc.com/">Inc</a>
 
-**TOOLS**:
+**TOOLS** ::
 - <a href="http://the-knowledge.org/en-gb/"> The Knowledge: How to Rebuild the World From Scratch </a>
 - <a href="https://www.newscientist.com/"> New Scientist </a>
 - <a href="http://www.nature.com/"> Nature </a>
@@ -64,8 +81,8 @@ permalink: /about/
 ---
 
 ### Antifragile
-* Barbell Strategy
-* via negativa
+* Barbell Strategy: A dual strategy, a combination of two extremes, one safe and one speculative
+* Via Negativa
   - try to prove hypothesis wrong much like the scientific method
   - try to disqualify hypothesis many ways before saying that there is some correlation
 
