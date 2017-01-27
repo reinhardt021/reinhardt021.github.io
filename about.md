@@ -30,6 +30,7 @@ permalink: /about/
 - > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj
 - > "If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present." - Lao Tzu
 - > "Let go your earthly tether. Enter the void. Empty and become wind." - Laghima
+
 ---------
 
 ### FAV SITES
@@ -73,22 +74,68 @@ permalink: /about/
 - <a href= "http://www.entrepreneur.com/">Entrepreneur</a> :: <a href="http://www.fastcompany.com/">Fast Company</a> :: <a href="http://www.inc.com/">Inc</a>
 
 ---
-### via negativa
-- try to prove hypothesis wrong much like the scientific method
-- try to disqualify hypothesis many ways before saying that there is some correlation
 
-### scientific method
-1. Characterizations (formulate a question): observations, definitions, measurements of subject of inquiry
-2. Hypothesis: theoretical, hypothetical explanations of observations & measurements
-3. Predictions: reasoning including logical deduction from the hypothesis or theory
-4. Experiments: tests of all the above
-5. Analysis: determine what test results show & deciding on next actions to take
-
-### Accelerated Learning
-1. Deconstruction
-2. Selection
-3. Sequencing
-4. Stakes
+### Antifragile
+* Barbell Strategy
+* via negativa
+  - try to prove hypothesis wrong much like the scientific method
+  - try to disqualify hypothesis many ways before saying that there is some correlation
 
 ### Deep Work
-- Eudaimonia Machine
+* Deep Work Helps You Quickly Learn Hard Things
+  * Deliberate Practice
+     1. your attention is focused tightly on a specific skill you’re trying to improve or an idea you’re trying to master
+     2. you receive feedback so you can correct your approach to keep your attention exactly where it’s most productive
+* Deep Work Helps You Produce at an Elite Level
+  * mastery of subject and focused intensity
+  * batching
+
+* Eudaimonia Machine: Gallery (inspire) >> Salon (form ideas) >> Library (resources) >> Office (shallows) >> Chambers (deep)
+* Scheduling
+  * Monastic: radically minimize shallow work in your life
+  * Bimodal: Schedule long stretches of time for isolation and deep work (days or weeks)
+  * Rhythmic: Schedule time everyday to do deep work (make it habitual) (can’t get as deep)
+  * Journalistic: Whenever you can switch into deep work (very hard to switch like this)
+* Make Grand Gestures
+* Hub & Spoke Model ~ Barbell Strategy + Bell Labs example: Theory + Execution
+* 4 Disciplines of Execution (4DX) - Christensen
+  1. Focus on the Wildly Important
+  2. Act on the Lead Measures (lag measures are too late + lead measure for deep work: time spent in deep work dedicated toward your wildly important goal)
+  3. Keep a compelling Scoreboard (track hours of deep work in a prominent place)
+  4. Create a Cadence of Accountability (regular progress reports)
+
+* Embrace Boredom
+  * Don’t Take Breaks from Distraction. Instead Take Breaks from Focus.
+  * Work Like Teddy Roosevelt - Dashes of intensity with artificial deadlines
+
+* The Craftsman Approach to Tool Selection: Identify the core factors that determine success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantially outweigh its negative impacts
+* Don’t Use the Internet to Entertain Yourself
+* Put more thought into your leisure time
+
+* Schedule Every Minute of Your Day
+* Quantify the Depth of Every Activity: How long would it take (in months) to train a smart recent college graduate with no specialized training in my field to complete this task?
+* Finish Your Work by Five Thirty
+* Become Hard to Reach
+  * Tip #1: Make People Who Send You E-mail Do More Work
+  * Tip #2: Do More Work When You Send or Reply to E-mails
+    * what is the project represented by this message?
+    * what is the most efficient (in terms of messages generated) process for bringing this project to a successful conclusion?
+  * Tip #3: Don’t Respond
+    * ambiguous / hard to generate a reasonable response
+    * not a question / proposal that interests you
+    * nothing really good would happen if you did respond & nothing really bad would happen if you didn’t
+
+* Bias your time toward depth
+
+### Accelerated Learning
+1. DECONSTRUCTION: find the pieces
+2. SELECTION: 80 / 20
+3. SEQUENCING: lead dominoes?
+4. STAKES: accountability
+
+### Scientific Method
+1. CHARACTERIZATIONS (formulate a question): observations, definitions, measurements of subject of inquiry
+2. HYPOTHESIS: theoretical, hypothetical explanations of observations & measurements
+3. PREDICTIONS: reasoning including logical deduction from the hypothesis or theory
+4. EXPERIMENTS: tests of all the above
+5. ANALYSIS: determine what test results show & deciding on next actions to take
