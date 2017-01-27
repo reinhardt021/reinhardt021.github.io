@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
 
-![My Image]({{ site.url }}/assets/ReinhardtCagara.jpg){: #profile-pic}
+<!-- ![My Image]({{ site.url }}/assets/ReinhardtCagara.jpg){: #profile-pic} -->
 
 ## <a href="https://www.dropbox.com/s/8edipfuhuxvkek8/Reinhardt%20Cagara.pdf?dl=0">Reinhardt Cagara</a>
 
@@ -23,10 +23,13 @@ permalink: /about/
 - > "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
 - > "Strive not to be a person of success, but a person of value." - Albert Einstein
 - > "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
+
 - > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
 - > "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
-- > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj
 
+- > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj
+- > "If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present." - Lao Tzu
+- > "Let go your earthly tether. Enter the void. Empty and become wind." - Laghima
 ---------
 
 ### FAV SITES
@@ -36,6 +39,10 @@ permalink: /about/
 - <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a> :: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
 
 #### TECH
+- <a href="http://the-knowledge.org/en-gb/"> The Knowledge: How to Rebuild the World From Scratch </a>
+- <a href="https://www.newscientist.com/"> New Scientist </a>
+- <a href="http://www.nature.com/"> Nature </a>
+- <a href="https://aeon.co/"> Aeon </a>
 - <a href="https://news.ycombinator.com/"> Hacker News </a>
 - <a href="http://www.wired.com/"> Wired </a> :: <a href="http://www.theverge.com/"> the Verge </a>
 - <a href="http://www.gizmodo.com/"> Gizmodo </a> :: <a href="http://www.io9.com/"> Io9 </a>
@@ -64,3 +71,24 @@ permalink: /about/
 
 #### MUSE
 - <a href= "http://www.entrepreneur.com/">Entrepreneur</a> :: <a href="http://www.fastcompany.com/">Fast Company</a> :: <a href="http://www.inc.com/">Inc</a>
+
+---
+### via negativa
+- try to prove hypothesis wrong much like the scientific method
+- try to disqualify hypothesis many ways before saying that there is some correlation
+
+### scientific method
+1. Characterizations (formulate a question): observations, definitions, measurements of subject of inquiry
+2. Hypothesis: theoretical, hypothetical explanations of observations & measurements
+3. Predictions: reasoning including logical deduction from the hypothesis or theory
+4. Experiments: tests of all the above
+5. Analysis: determine what test results show & deciding on next actions to take
+
+### Accelerated Learning
+1. Deconstruction
+2. Selection
+3. Sequencing
+4. Stakes
+
+### Deep Work
+- Eudaimonia Machine
