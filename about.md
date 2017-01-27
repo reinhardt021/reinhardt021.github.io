@@ -8,10 +8,7 @@ permalink: /about/
 
 <!-- ![My Image]({{ site.url }}/assets/ReinhardtCagara.jpg){: #profile-pic} -->
 <p>
-  Hey! I'm <a href="https://www.dropbox.com/s/8edipfuhuxvkek8/Reinhardt%20Cagara.pdf?dl=0">Reinhardt Cagara</a>. Pleasure to have you here :)
-</p>
-<p>
-  Black Belt, Bboy, Mathmematician. Dancing to the rhythm of exploration through the physical and digital realms. Student of Life, Lover of Lists, Admirer of Alliteration.
+  Hey! This is <a href="https://www.dropbox.com/s/8edipfuhuxvkek8/Reinhardt%20Cagara.pdf?dl=0">Reinhardt Cagara</a>. Black Belt, Bboy, Mathmematician. Dancing to the rhythm of exploration through the physical and digital realms. Student of Life, Lover of Lists, Admirer of Alliteration. Pleasure to have you here :)
 </p>
 
 ---------
@@ -81,10 +78,29 @@ permalink: /about/
 ---
 
 ### Antifragile
-* Barbell Strategy: A dual strategy, a combination of two extremes, one safe and one speculative
-* Via Negativa
-  - try to prove hypothesis wrong much like the scientific method
-  - try to disqualify hypothesis many ways before saying that there is some correlation
+* Responses to variability and stress come from the outside. If something is fragile and it’s exposed to stress, there’s nothing built in to help fend off that stressor
+* **Less is usually more with antifragility**. To become anti-fragile, it pays to be small. With smallness comes increased agility and flexibility during volatile and chaotic times. If I were navigating a foggy sea filled with hidden icebergs, I’d rather be a passenger on a small, but maneuverable jet boat than a giant, but sluggish ocean liner.
+* **Responses to variability and stress are built into the antifragile**
+  * build systems that respond to variability internally
+* **Antifragile things have built-in redundancies**. This point stuck out to me the most. Unlike fragile systems/organizations/people, antifragile things don’t make efficiency the primary goal. For the antifragile, thriving in randomness is the goal, which often requires being “inefficient” through layering redundancies
+  * “Redundancy is ambiguous because it seems like a waste if nothing unusual happens. Except that something unusual happens — usually.”
+* Nature and tradition do a good job of creating antifragility
+  * look to nature for examples
+* Intentionally inject stress in your life
+  * short term acute stressors
+  * **sufficient recovery between stressors to rebuild stronger than before**
+* Add redundancies in your life: savings / worst case scenario planning
+* **Barbell Strategy**: A dual strategy, a combination of two extremes, one safe and one speculative
+  * embracing both extreme risk aversion on one side and extreme risk taking on the other while shunning everything in the middle
+* Never take advice from someone who doesn’t have “skin in the game.”
+  * If the person dispensing the advice or making the prediction has nothing to lose from being wrong, don’t listen to them. Pay more attention to people who have accepted risk and responsibility for their words.
+* **Via Negativa**
+  * try to prove hypothesis wrong much like the scientific method
+  * try to disqualify hypothesis many ways before saying that there is some correlation
+  * **“the first step towards antifragility consists in first decreasing downside.”**
+  * Instead of focusing your time on adding things to your life to make it better, focus first on subtracting habits, practices, things, people that fragilize you. A few examples: get rid of debt, quit smoking, stop hanging around toxic friends, eliminate unhealthy foods.
+* **Keep your options open**
+  * increase optionality: more savings, more skills
 
 ### Deep Work
 * Deep Work Helps You Quickly Learn Hard Things
