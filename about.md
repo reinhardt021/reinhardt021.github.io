@@ -11,68 +11,68 @@ permalink: /about/
 
 ---------
 
-- > "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
-- > "Strive not to be a person of success, but a person of value." - Albert Einstein
-- > "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
+> "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
+> "Strive not to be a person of success, but a person of value." - Albert Einstein
+> "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
 
-- > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
-- > "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
+> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
+> "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
 
-- > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj
-- > "If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present." - Lao Tzu
-- > "Let go your earthly tether. Enter the void. Empty and become wind." - Laghima
-- > *~ words to live by ~*
+> "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj
+> "If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present." - Lao Tzu
+> "Let go your earthly tether. Enter the void. Empty and become wind." - Laghima
+> *~ words to live by ~*
 
 ---------
 
-**LEARN** ::
-- <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
-- <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
-- <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a>
-- <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
-- <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
+**LEARN**
+:: <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
+:: <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
+:: <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a>
+:: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
+:: <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
 
-**SIMPLIFY** ::
-- <a href="http://www.zenhabits.net/"> Zen Habits </a>
-- <a href="http://www.bemorewithless.com/"> Be More With Less </a>
-- <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
-- <a href="http://www.lifeedited.com/"> Lifeedited </a>
-- <a href="http://www.lifehacker.com/"> Lifehacker </a>
-- <a href="http://www.treehugger.com/"> Treehugger </a>
+**SIMPLIFY**
+:: <a href="http://www.zenhabits.net/"> Zen Habits </a>
+:: <a href="http://www.bemorewithless.com/"> Be More With Less </a>
+:: <a href="http://www.becomingminimalist.com/"> Becoming Minimalist </a>
+:: <a href="http://www.lifeedited.com/"> Lifeedited </a>
+:: <a href="http://www.lifehacker.com/"> Lifehacker </a>
+:: <a href="http://www.treehugger.com/"> Treehugger </a>
 
-**DESIGN** ::
-- <a href="http://www.core77.com/"> Core77 - Industrial Design </a>
-- <a href="http://www.design-milk.com/"> Design Milk </a>
-- <a href="http://www.dezeen.com/"> Dezeen </a>
-- <a href="https://www.bigmedium.com/"> Big Medium </a>
+**DESIGN**
+:: <a href="http://www.core77.com/"> Core77 - Industrial Design </a>
+:: <a href="http://www.design-milk.com/"> Design Milk </a>
+:: <a href="http://www.dezeen.com/"> Dezeen </a>
+:: <a href="https://www.bigmedium.com/"> Big Medium </a>
 
-**MUSE** ::
-- <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
-- <a href="http://www.fastcompany.com/">Fast Company</a>
-- <a href="http://www.inc.com/">Inc</a>
+**MUSE**
+:: <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
+:: <a href="http://www.fastcompany.com/">Fast Company</a>
+:: <a href="http://www.inc.com/">Inc</a>
 
 **TOOLS**
 :: <a href="http://the-knowledge.org/en-gb/"> The Knowledge: How to Rebuild the World From Scratch </a>
 :: <a href="https://www.newscientist.com/"> New Scientist </a>
-- <a href="http://www.nature.com/"> Nature </a>
-- <a href="https://aeon.co/"> Aeon </a>
-- <a href="https://news.ycombinator.com/"> Hacker News </a>
-- <a href="http://www.wired.com/"> Wired </a> :: <a href="http://www.theverge.com/"> the Verge </a>
-- <a href="http://www.gizmodo.com/"> Gizmodo </a> :: <a href="http://www.io9.com/"> Io9 </a>
-- <a href="http://www.techvibes.com/global"> TechVibes </a>
-- <a href="http://www.technologyreview.com/"> MIT Tech Review </a> :: <a href="http://news.mit.edu/"> MIT news </a>
-- <a href="https://devchat.tv/js-jabber">Javascript Jabber</a>
-- <a href="http://www.fullstackradio.com/">Full Stack Radio</a>
-- <a href="http://www.se-radio.net/">Software Engineering Radio</a>
-- <a href="https://developertea.com/">Developer Tea</a>
-- <a href="http://aitopics.org/news">AI Topics in the News</a>
-- <a href="http://diamandis.com/abundance-insider">Diamandis: Abundance Insider</a>
-- <a href="http://diamandis.com/tech-blog">Diamandis: Tech Blog</a>
-- <a href="http://velocity.uwaterloo.ca/">Velocity</a>
-- <a href="http://news.communitech.ca/">Communitech</a>
-- <a href="http://makezine.com/">Make: We are all Makers</a>
-- <a href="https://www.hackerrank.com/domains">HackerRank</a>
-- <a href="http://highline.vc/blog">Highline: Blog</a>
+:: <a href="http://www.nature.com/"> Nature </a>
+:: <a href="https://aeon.co/"> Aeon </a>
+:: <a href="https://news.ycombinator.com/"> Hacker News </a>
+:: <a href="http://www.wired.com/"> Wired </a> :: <a href="http://www.theverge.com/"> the Verge </a>
+:: <a href="http://www.gizmodo.com/"> Gizmodo </a> :: <a href="http://www.io9.com/"> Io9 </a>
+:: <a href="http://www.techvibes.com/global"> TechVibes </a>
+:: <a href="http://www.technologyreview.com/"> MIT Tech Review </a> :: <a href="http://news.mit.edu/"> MIT news </a>
+:: <a href="https://devchat.tv/js-jabber">Javascript Jabber</a>
+:: <a href="http://www.fullstackradio.com/">Full Stack Radio</a>
+:: <a href="http://www.se-radio.net/">Software Engineering Radio</a>
+:: <a href="https://developertea.com/">Developer Tea</a>
+:: <a href="http://aitopics.org/news">AI Topics in the News</a>
+:: <a href="http://diamandis.com/abundance-insider">Diamandis: Abundance Insider</a>
+:: <a href="http://diamandis.com/tech-blog">Diamandis: Tech Blog</a>
+:: <a href="http://velocity.uwaterloo.ca/">Velocity</a>
+:: <a href="http://news.communitech.ca/">Communitech</a>
+:: <a href="http://makezine.com/">Make: We are all Makers</a>
+:: <a href="https://www.hackerrank.com/domains">HackerRank</a>
+:: <a href="http://highline.vc/blog">Highline: Blog</a>
 
 ---
 
@@ -183,7 +183,7 @@ permalink: /about/
 
 * **01 DiSSS**
     * D: DECONSTRUCTION
-        * what are the minimal learnable units?
+        * **what are the minimal learnable units?**
         * the lego blocks I should start with?
         * exploration = outliers doing? not doing?
         * **BEST TOOL = interviewing**
@@ -196,16 +196,17 @@ permalink: /about/
 * **02 CaFE**
     * C: COMPRESSION
         * important 20% in 1pager
-        * 1pager for prescription (theory)
-        * 1pager for practice (action)
+        * **1pager for prescription (theory)**
+        * **1pager for practice (action)**
     * F: FREQUENCY
-        * how frequently should I practices
+        * how frequently should I practice ?
         * can I cram?
-        * what should my schedule look like?
+        * what should my schedule look like ?
         * growing pains I can predict? plateaus? sticking points?
-        * Minimum Effective Dose for volume
+        * **Minimum Effective Dose for volume ?**
         * phelps visualizations morning and night >> single focus
         * batch ? or every day?
+        * habitual ?
     * E: ENCODING
         * how to anchor new material to what I already know for rapid recall
         * recall != recognition
@@ -213,6 +214,10 @@ permalink: /about/
             * method of loci
             * major system
             * obtuse images
+            * chunking
+        * sleep hygiene
+            * before sleep to make sure gets stored into long term memory
+            * right after waking to make sure you still remember
 
 * **pain = information >> knowledge that leads to action that leads to change that makes your life better**
 
