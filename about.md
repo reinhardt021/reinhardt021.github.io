@@ -30,6 +30,7 @@ permalink: /about/
 - <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
 - <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a>
 - <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
+- <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
 
 **SIMPLIFY** ::
 - <a href="http://www.zenhabits.net/"> Zen Habits </a>
@@ -155,6 +156,65 @@ permalink: /about/
 2. SELECTION: 80 / 20
 3. SEQUENCING: lead dominoes?
 4. STAKES: accountability
+
+* **the extremes inform the mean but not vice versa**
+    * designing tools for elderly
+    * extreme teenage girl dead lifter >> focus on school sprint coach Barry Ross
+
+* What you study is more important to how you study
+
+* 01 is the method effective?
+    * have you narrowed down material to highest frequency?
+* 02 is the method sustainable?
+    * schedule and subject matter you can stick with or at least put up with until fluency?
+    * daily? or weekly ?
+    * fun material to practice on?
+
+* efficiency is doing things right
+* effectiveness is doing the right things
+* **speed determines it's value**
+    * how fast you learn something is important to ROI
+
+* declarative Knowledge >> facts:
+* procedural Knowledge >> actions: judo / riding a bike / driving a car
+    * creative knowledge?
+    * procedure on how to create new things???
+
+* **01 DiSSS**
+    * D: DECONSTRUCTION
+        * what are the minimal learnable units?
+        * the lego blocks I should start with?
+        * exploration = outliers doing? not doing?
+        * **BEST TOOL = interviewing**
+    * S: SELECTION
+        * 20% blocks to get 80% outcome?
+    * S: SEQUENCING
+        * in what order should I learn the blocks
+    * S:STAKES
+        * how to create real consequences and guarantee I follow the program
+* **02 CaFE**
+    * C: COMPRESSION
+        * important 20% in 1pager
+        * 1pager for prescription (theory)
+        * 1pager for practice (action)
+    * F: FREQUENCY
+        * how frequently should I practices
+        * can I cram?
+        * what should my schedule look like?
+        * growing pains I can predict? plateaus? sticking points?
+        * Minimum Effective Dose for volume
+        * phelps visualizations morning and night >> single focus
+    * E: ENCODING
+        * how to anchor new material to what I already know for rapid recall
+        * recall != recognition
+
+* pain = information >> knowledge that leads to action that leads to change that makes your life better
+
+* **How would it look like if it were easy**
+    * living?
+    * businesses?
+    * something I do for fun?
+
 
 ### Scientific Method
 1. CHARACTERIZATIONS (formulate a question): observations, definitions, measurements of subject of inquiry
