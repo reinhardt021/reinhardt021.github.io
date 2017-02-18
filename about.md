@@ -12,15 +12,21 @@ permalink: /about/
 ---------
 
 > "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
+
 > "Strive not to be a person of success, but a person of value." - Albert Einstein
+
 > "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
 
 > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
+
 > "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
 
 > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj
+
 > "If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present." - Lao Tzu
+
 > "Let go your earthly tether. Enter the void. Empty and become wind." - Laghima
+
 > *~ words to live by ~*
 
 ---------
@@ -188,11 +194,17 @@ permalink: /about/
         * exploration = outliers doing? not doing?
         * **BEST TOOL = interviewing**
     * S: SELECTION
-        * 20% blocks to get 80% outcome?
+        * 20% blocks to get 80% outcome ? to focus
+        * **20% blocks to get 80% failures ? to avoid**
     * S: SEQUENCING
-        * in what order should I learn the blocks
-    * S:STAKES
-        * how to create real consequences and guarantee I follow the program
+        * in what order should I learn the blocks ?
+        * **habit stacking ?**
+    * S: STAKES
+        * how to create real consequences and guarantee I follow the program ?
+        * **prepay to precommit**
+        * **3 person learning teams**:
+            * two students one teacher
+            * two teachers one student >> better
 * **02 CaFE**
     * C: COMPRESSION
         * important 20% in 1pager
