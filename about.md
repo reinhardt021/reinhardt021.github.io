@@ -51,9 +51,9 @@ permalink: /about/
 - <a href="http://www.fastcompany.com/">Fast Company</a>
 - <a href="http://www.inc.com/">Inc</a>
 
-**TOOLS** ::
-- <a href="http://the-knowledge.org/en-gb/"> The Knowledge: How to Rebuild the World From Scratch </a>
-- <a href="https://www.newscientist.com/"> New Scientist </a>
+**TOOLS**
+:: <a href="http://the-knowledge.org/en-gb/"> The Knowledge: How to Rebuild the World From Scratch </a>
+:: <a href="https://www.newscientist.com/"> New Scientist </a>
 - <a href="http://www.nature.com/"> Nature </a>
 - <a href="https://aeon.co/"> Aeon </a>
 - <a href="https://news.ycombinator.com/"> Hacker News </a>
@@ -161,7 +161,7 @@ permalink: /about/
     * designing tools for elderly
     * extreme teenage girl dead lifter >> focus on school sprint coach Barry Ross
 
-* What you study is more important to how you study
+* What you study is more important than how you study
 
 * 01 is the method effective?
     * have you narrowed down material to highest frequency?
@@ -174,6 +174,7 @@ permalink: /about/
 * effectiveness is doing the right things
 * **speed determines it's value**
     * how fast you learn something is important to ROI
+    * the longer it takes to develop the less likely it is to launch
 
 * declarative Knowledge >> facts:
 * procedural Knowledge >> actions: judo / riding a bike / driving a car
@@ -204,11 +205,16 @@ permalink: /about/
         * growing pains I can predict? plateaus? sticking points?
         * Minimum Effective Dose for volume
         * phelps visualizations morning and night >> single focus
+        * batch ? or every day?
     * E: ENCODING
         * how to anchor new material to what I already know for rapid recall
         * recall != recognition
+        * mnemonic devices
+            * method of loci
+            * major system
+            * obtuse images
 
-* pain = information >> knowledge that leads to action that leads to change that makes your life better
+* **pain = information >> knowledge that leads to action that leads to change that makes your life better**
 
 * **How would it look like if it were easy**
     * living?
