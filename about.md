@@ -14,22 +14,24 @@ Canada
 
 ---------
 
-# SYCLE
+# EXPERIENCE
+
+## Sycle
 - Text & Email Reminders using a 3rd Party API
 - Password reset feature
 - Clinic Reports on Patient Data
 - Technologies: PHP / Laravel / Angular / MySQL / Bitbucket
 
-# VOLEO
+## Voleo
 - Creation of automated tests
 - API endpoints
 - Technologies: PHP / Laravel / Angular / MySQL / Github
 
-# LIGHTHOUSE LABS
+## Lighthouse Labs
 - Part-Time Mentor / Teaching Assistant
 - Technologies: Ruby / Rails / ERB / JavaScript / Node.js / React
 
-# CHRISTIE DIGITAL
+## Christie Digital
 - Database analysis
 - Technologies: Excel / Oracle: JD Enterprise One
 
