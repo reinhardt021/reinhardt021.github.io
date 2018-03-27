@@ -6,7 +6,7 @@ permalink: /projects/
 
 ![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}
 
-### work in progress ...
+work in progress ...
 
 ---------
 

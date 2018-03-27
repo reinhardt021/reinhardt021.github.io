@@ -14,7 +14,7 @@ Canada
 
 ---------
 
-## EXPERIENCE
+## Experience
 
 ### Sycle
 - Text & Email Reminders using a 3rd Party API
