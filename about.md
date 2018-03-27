@@ -14,13 +14,13 @@ Canada
 
 ---------
 
-## Experience
+## Career Adventure
 
 ### Sycle
 - Text & Email Reminders using a 3rd Party API
 - Password reset feature
 - Clinic Reports on Patient Data
-- Technologies: PHP / Laravel / Angular / MySQL / Bitbucket
+- Technologies: PHP / Laravel / JS / Angular / MySQL / Bitbucket
 
 ### Voleo
 - Creation of automated tests

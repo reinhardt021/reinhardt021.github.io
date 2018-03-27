@@ -4,7 +4,7 @@ title: x
 permalink: /x/
 ---
 
-![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
+![Tough Mudder]({{ site.url }}/assets/2017-tough-mudder.jpg){: #tough-mudder}
 
 ---------
 
