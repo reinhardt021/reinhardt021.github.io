@@ -5,8 +5,8 @@ date:   2018-01-30 22:32:57 -0800
 categories: jekyll update
 ---
 
-A new day.\s\s  
+A new day.  
 The end of the beginning.  
-Things will start moving faster now.\s\s  
+Things will start moving faster now.  
 
 Are you ready?
