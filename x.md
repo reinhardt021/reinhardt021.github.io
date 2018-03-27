@@ -106,6 +106,8 @@ permalink: /x/
 * **Keep your options open**
   * increase optionality: more savings, more skills
 
+---------
+
 ### Deep Work
 * Deep Work Helps You Quickly Learn Hard Things
   * Deliberate Practice

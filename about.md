@@ -14,7 +14,7 @@ Canada
 
 ---------
 
-## Career Adventure
+## Adventures
 
 ### Sycle
 - Text & Email Reminders using a 3rd Party API
