@@ -57,4 +57,14 @@ permalink: /projects/
 - [Confidant Github Page](https://github.com/reinhardtcgr/confidant)
 
 ---------
+
+<!-- # [FINSTAGRAM](live URL here) -->
+
+# FINSTAGRAM
+- Fish-themed Instagram clone
+- built using Ruby / Sinatra Framework / JavaScript / jQuery / CSS
+- done while Mentoring for Lighthouse Labs Part-time course
+- [Finstagram Github Page](https://github.com/reinhardtcgr/finstagram)
+
+---------
 ...
