@@ -79,7 +79,7 @@ permalink: /x/
 :: <a href="https://www.hackerrank.com/domains">HackerRank</a>
 :: <a href="http://highline.vc/blog">Highline: Blog</a>
 
----
+---------
 
 ### Antifragile
 * Responses to variability and stress come from the outside. If something is fragile and it’s exposed to stress, there’s nothing built in to help fend off that stressor
@@ -155,6 +155,8 @@ permalink: /x/
     * not a question / proposal that interests you
     * nothing really good would happen if you did respond & nothing really bad would happen if you didn’t
 * Bias your time toward depth
+
+---------
 
 ### Accelerated Learning
 1. DECONSTRUCTION: find the pieces
@@ -237,6 +239,7 @@ permalink: /x/
     * businesses?
     * something I do for fun?
 
+---------
 
 ### Scientific Method
 1. CHARACTERIZATIONS (formulate a question): observations, definitions, measurements of subject of inquiry
