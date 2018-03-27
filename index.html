@@ -14,21 +14,16 @@ layout: default
           Enjoy the process.<br/>
           INTENSITY OF FOCUS.<br/>
       </strong>
-      <em>
-          These are some of my personal mantras.<br/>
-          They continue to guide me on my journey through life.<br/>
-          Hopefully they can provide you some value as they have for me :)<br/>
-      </em>
   </p>
   <hr/>
   <!-- <h1 class="page-heading">POSTS</h1> -->
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <strong>
+        <span class="text-inline">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </strong>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </span>
       </li>
     {% endfor %}
   </ul>
