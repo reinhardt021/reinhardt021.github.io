@@ -5,24 +5,25 @@ layout: default
 <div class="home">
 
   <img id="adventure" src="{{ site.url }}/assets/adventure.jpg"/>
-  <p class="text-center">
+  <h2 class="text-center">
       “Building the steps to take you beyond your plateau”
-  </p>
+  </h2>
   <p class='text-center'>
-      <strong>
+      <h3>
           Decide that you want it more than you fear it.<br/>
           Enjoy the process.<br/>
           INTENSITY OF FOCUS.<br/>
-      </strong>
+      </h3>
   </p>
   <hr/>
   <!-- <h1 class="page-heading">POSTS</h1> -->
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="text-inline">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span class="text-center">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> tests
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <!-- {{ post.date | date: "%b %-d, %Y" }} -->
         </span>
       </li>
     {% endfor %}
