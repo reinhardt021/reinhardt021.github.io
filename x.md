@@ -249,3 +249,5 @@ permalink: /x/
 3. PREDICTIONS: reasoning including logical deduction from the hypothesis or theory
 4. EXPERIMENTS: tests of all the above
 5. ANALYSIS: determine what test results show & deciding on next actions to take
+
+---------
