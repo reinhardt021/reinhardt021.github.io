@@ -4,9 +4,7 @@ title: projects
 permalink: /projects/
 ---
 
-![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}
-
-work in progress ...
+_work in progress ..._
 
 ---------
 
@@ -67,4 +65,5 @@ work in progress ...
 - [Finstagram Github Page](https://github.com/reinhardtcgr/finstagram)
 
 ---------
-...
+
+![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}

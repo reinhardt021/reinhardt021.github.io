@@ -4,8 +4,6 @@ title: x
 permalink: /x/
 ---
 
-![Tough Mudder]({{ site.url }}/assets/2017-tough-mudder-original.jpg){: #tough-mudder}
-
 ---------
 
 > "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
@@ -26,7 +24,9 @@ permalink: /x/
 
 > *~ words to live by ~*
 
+
 ---------
+
 
 **LEARN**
 :: <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
@@ -251,3 +251,5 @@ permalink: /x/
 5. ANALYSIS: determine what test results show & deciding on next actions to take
 
 ---------
+
+![Tough Mudder]({{ site.url }}/assets/2017-tough-mudder-original.jpg){: #tough-mudder}
