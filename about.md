@@ -6,9 +6,6 @@ permalink: /about/
 
 **Hey there! This is <a href="https://linkedin.com/in/reinhardtcagara">Reinhardt Cagara</a>.** *Black Belt, Bboy, Mathmematician. Dancing to the rhythm of exploration through the physical and digital realms. Student of Life, Lover of Lists, Admirer of Alliteration. Pleasure to have you here :)*
 
-Toronto, ON | Vancouver, BC  
-Canada
-
 ---------
 
 ## Adventures
@@ -35,3 +32,5 @@ Canada
 ---------
 
 ![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
+_Toronto, ON | Vancouver, BC_  
+_Canada_

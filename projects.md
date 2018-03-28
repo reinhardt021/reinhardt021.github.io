@@ -4,8 +4,6 @@ title: projects
 permalink: /projects/
 ---
 
-_work in progress ..._
-
 ---------
 
 <!-- # [ROTTEN MANGOED](http://rotten-mangoed.herokuapp.com/) -->
@@ -67,3 +65,4 @@ _work in progress ..._
 ---------
 
 ![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}
+_work in progress ..._
