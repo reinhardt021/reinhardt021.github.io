@@ -4,6 +4,11 @@ title: .
 permalink: /x/
 ---
 
+Every situation is what you make of it. So make the most of it.
+Start wherever you are right now. Do what you can with what you have.
+Existence has a rhythm of going between chaos and order.
+So have focus when you need to but don't forget to have fun.
+
 ---------
 
 > "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
@@ -253,3 +258,4 @@ permalink: /x/
 ---------
 
 ![Tough Mudder]({{ site.url }}/assets/2017-tough-mudder-original.jpg){: #tough-mudder}
+_learn laugh live..._
