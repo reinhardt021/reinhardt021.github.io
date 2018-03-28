@@ -59,22 +59,14 @@ body {
 .site-header {
   // background-color: rgba(0, 0, 0, 0.1);
   border: none;
-  // color: white;
 }
-
-.site-header a {
-  // color: white;
-}
-
-// .wrapper {
-//   text-align: center;
-// }
 
 .site-nav {
-  float: right;
+  float: none;
   margin: 0 auto;
   display: inline-block;
   text-align: center;
+  width: 100%;
 }
 
 .site-nav ul {
@@ -82,10 +74,6 @@ body {
   display: inline-block;
   list-style-type: none;
 }
-
-// .page-content {
-//   padding-top: 0px;
-// }
 
 .site-footer {
   border: none;

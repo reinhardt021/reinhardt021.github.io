@@ -4,7 +4,7 @@ title: x
 permalink: /x/
 ---
 
-![Tough Mudder]({{ site.url }}/assets/2017-tough-mudder.jpg){: #tough-mudder}
+![Tough Mudder]({{ site.url }}/assets/2017-tough-mudder-original.jpg){: #tough-mudder}
 
 ---------
 
