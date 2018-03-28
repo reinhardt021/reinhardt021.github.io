@@ -57,7 +57,7 @@ body {
 }
 
 .site-header {
-  background-color: rgba(0, 0, 0, 0.1);
+  // background-color: rgba(0, 0, 0, 0.1);
   border: none;
   // color: white;
 }
@@ -104,8 +104,9 @@ body {
     text-align: center;
 }
 
-.pages-menu {
-    color: white;
+.site-nav .page-link {
+    color: whitesmoke;
+    text-shadow: 0px 1px 30px black;
 }
 
 .post-list > li {
