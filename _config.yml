@@ -9,14 +9,15 @@
 title: rhythm of rein
 email: reinhardt.cgr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Curated Collection of Personal Projects and Obscure Opinions.
-  Rhythm of Rein is the nexus of my nootropic nonsense.
+  Decide that you want it more than you fear it.
+  Enjoy the process.
+  FOCUS WITH INTENSITY
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://reinhardtcgr.github.io/" # the base hostname & protocol for your site
 twitter_username: rhythmofrein
 github_username:  reinhardtcgr
 linkedin_username:  reinhardtcagara
-salutations: ".: learn love live - autumn :."
+salutations: "\"Before you can change the world around you, you must learn to change the worlds within you\""
 
 # Build settings
 markdown: kramdown
