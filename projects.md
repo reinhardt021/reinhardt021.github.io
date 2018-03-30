@@ -8,8 +8,8 @@ permalink: /projects/
 ---------
 
 
-<!-- # [ROTTEN MANGOED](http://rotten-mangoed.herokuapp.com/) -->
-# ROTTEN MANGOED
+<!-- # [Rotten Mangoed](http://rotten-mangoed.herokuapp.com/) -->
+# Rotten Mangoed
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
       - film title
@@ -24,9 +24,9 @@ permalink: /projects/
 
 ---------
 
-<!-- # [MINIMALIST MUSIC](https://minimalist-music.herokuapp.com/) -->
+<!-- # [Minimalist Music](https://minimalist-music.herokuapp.com/) -->
 
-# MINIMALIST MUSIC
+# Minimalist Music
   - Minimalist Music wall available for the public
     - allows visitors to view a list of songs
     - users can add more songs to the list as desired
@@ -39,9 +39,9 @@ permalink: /projects/
 
 ---------
 
-<!-- # [CONFIDANT](https://confidant.herokuapp.com/) -->
+<!-- # [Confidant](https://confidant.herokuapp.com/) -->
 
-# CONFIDANT
+# Confidant
 - public phone book / contact list type app
   - can create new contacts
   - can edit existing contacts
@@ -55,9 +55,9 @@ permalink: /projects/
 
 ---------
 
-<!-- # [FINSTAGRAM](live URL here) -->
+<!-- # [Finstagram](live URL here) -->
 
-# FINSTAGRAM
+# Finstagram
 - Fish-themed Instagram clone
 - built using Ruby / Sinatra Framework / JavaScript / jQuery / CSS
 - done while Mentoring for Lighthouse Labs Part-time course
