@@ -55,6 +55,8 @@ So have focus when you need to but don't forget to have fun.
 :: <a href="https://www.azuremagazine.com/">Azure Magazine</a>
 :: <a href="http://www.surfacemag.com/">Surface Magazine</a>
 :: <a href="https://www.bigmedium.com/">Big Medium</a>
+:: <a href="https://www.dwell.com/">Dwell</a>
+:: <a href="https://99percentinvisible.org/episodes/">99% Invisible</a>
 
 **MUSE**
 :: <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
