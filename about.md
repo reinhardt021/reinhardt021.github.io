@@ -15,30 +15,27 @@ _📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_
 
 ## ADVENTURES
 
-### Sycle
+### Software Engineer  @Sycle
 - Text & Email Reminders using a 3rd Party API
 - Password reset feature
 - Clinic Reports on Patient Data
 - Technologies: PHP / Laravel / JS / Angular / MySQL / Bitbucket
 
-### Voleo
+### Full-Stack Developer @Voleo
 - Creation of automated tests
 - API endpoints
 - Technologies: PHP / Laravel / Angular / MySQL / Github
 
-### Lighthouse Labs
+### Teaching Assistant @Lighthouse Labs
 - Part-Time Mentor / Teaching Assistant
 - Technologies: Ruby / Rails / ERB / JavaScript / Node.js / React
 
-### Christie Digital
+### Install Base & Warranty Analyst @Christie Digital
 - Database analysis
 - Technologies: Excel / Oracle: JD Enterprise One
 
-
->
->
->
-
+   
+     
 
 ![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}
 
