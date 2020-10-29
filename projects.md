@@ -5,10 +5,11 @@ permalink: /projects/
 ---
 
 
----------
-
+![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}
+_work in progress ..._
 
 <!-- # [Rotten Mangoed](http://rotten-mangoed.herokuapp.com/) -->
+
 # Rotten Mangoed
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
@@ -22,7 +23,6 @@ permalink: /projects/
     - Built with Ruby on Rails, CSS, and Bootstrap
   - [Rotten Mangoes Github Page](https://github.com/reinhardtcgr/rotten_mangoes)
 
----------
 
 <!-- # [Minimalist Music](https://minimalist-music.herokuapp.com/) -->
 
@@ -37,7 +37,6 @@ permalink: /projects/
     - built using Sinatra, HTML, CSS, Bootstrap
   - [Minimialist Music Github Page](https://github.com/reinhardtcgr/music_wall_app)
 
----------
 
 <!-- # [Confidant](https://confidant.herokuapp.com/) -->
 
@@ -53,7 +52,6 @@ permalink: /projects/
   - Gravatar capabilities added for fun
 - [Confidant Github Page](https://github.com/reinhardtcgr/confidant)
 
----------
 
 <!-- # [Finstagram](live URL here) -->
 
@@ -63,7 +61,4 @@ permalink: /projects/
 - done while Mentoring for Lighthouse Labs Part-time course
 - [Finstagram Github Page](https://github.com/reinhardtcgr/finstagram)
 
----------
 
-![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}
-_work in progress ..._
