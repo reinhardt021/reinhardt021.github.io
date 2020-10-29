@@ -5,16 +5,15 @@ permalink: /about/
 ---
 
 
-# Hello! Hello!
+# HELLO! HELLO!
 
 *Welcome to my little cove on the web. Pleasure to have you here :)*
 
 ![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
-_Toronto, ON | Vancouver, BC_  
-_Canada_
+_📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_  
 
 
-## Adventures
+## ADVENTURES
 
 ### Sycle
 - Text & Email Reminders using a 3rd Party API
@@ -38,11 +37,12 @@ _Canada_
 
 
 ![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}
-_work in progress ..._
+
+## WORK in PROGRESS...
 
 <!-- # [Rotten Mangoed](http://rotten-mangoed.herokuapp.com/) -->
 
-## Rotten Mangoed
+### [Rotten Mangoed](https://github.com/reinhardtcgr/rotten_mangoes)
   - Collaborative Movie Database
     - Users can share movies they enjoy with details including:
       - film title
@@ -53,12 +53,11 @@ _work in progress ..._
       - and also leave a comment about the movie
     - Inspired by Rotten Tomatoes
     - Built with Ruby on Rails, CSS, and Bootstrap
-  - [Rotten Mangoes Github Page](https://github.com/reinhardtcgr/rotten_mangoes)
 
 
 <!-- # [Minimalist Music](https://minimalist-music.herokuapp.com/) -->
 
-## Minimalist Music
+### [Minimalist Music](https://github.com/reinhardtcgr/music_wall_app)
   - Minimalist Music wall available for the public
     - allows visitors to view a list of songs
     - users can add more songs to the list as desired
@@ -67,12 +66,11 @@ _work in progress ..._
     - users can leave reviews
     - users can add an upvote or downvote for songs that they know
     - built using Sinatra, HTML, CSS, Bootstrap
-  - [Minimialist Music Github Page](https://github.com/reinhardtcgr/music_wall_app)
 
 
 <!-- # [Confidant](https://confidant.herokuapp.com/) -->
 
-## Confidant
+### [Confidant](https://github.com/reinhardtcgr/confidant)
 - public phone book / contact list type app
   - can create new contacts
   - can edit existing contacts
@@ -82,23 +80,19 @@ _work in progress ..._
 - first attempt at a Single Page App
   - front-end pulls all information from back-end using AJAX requests
   - Gravatar capabilities added for fun
-- [Confidant Github Page](https://github.com/reinhardtcgr/confidant)
 
 
 <!-- # [Finstagram](live URL here) -->
 
-## Finstagram
+### [Finstagram](https://github.com/reinhardtcgr/finstagram)
 - Fish-themed Instagram clone
 - built using Ruby / Sinatra Framework / JavaScript / jQuery / CSS
 - done while Mentoring for Lighthouse Labs Part-time course
-- [Finstagram Github Page](https://github.com/reinhardtcgr/finstagram)
 
 
 
 <!--![Vancouver Andy Livingstone Park]({{ site.url }}/assets/VAN_20160123_031328.jpg){: #contact-pic}-->
 
-
-<!--### Most likely found in: Vancouver / Mississauga / Waterloo-->
 
 <!--#### _Otherwise: exploring the world on another adventure_-->
 
