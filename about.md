@@ -17,14 +17,14 @@ _📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_
 
 ### Software Engineer  _@Sycle_
 - **Technologies**: PHP / Laravel / JS / Angular / MySQL / Bitbucket
-- **Projects**:
+- Projects:
   - Text & Email Reminders using a 3rd Party API
   - Password reset feature
   - Clinic Reports on Patient Data
 
 ### Full-Stack Developer _@Voleo_
 - **Technologies**: PHP / Laravel / Angular / MySQL / Github
-- **Projects**:
+- Projects:
   - Creation of automated tests
   - API endpoints
 
@@ -80,9 +80,7 @@ _📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_
 ### [Confidant](https://github.com/reinhardtcgr/confidant)
 > public phone book / contact list type app
 
-  - can create new contacts
-  - can edit existing contacts
-  - can list all contacts
+- Create / Read / Update / Delete contacts
   - can find a specific contact by firstname, lastname, or email
 - built using Sinatra Framework / JavaScript / jQuery / CSS front-end / Bootstrap
 - first attempt at a Single Page App
@@ -94,6 +92,7 @@ _📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_
 
 ### [Finstagram](https://github.com/reinhardtcgr/finstagram)
 > Fish-themed Instagram clone
+
 - built using Ruby / Sinatra Framework / JavaScript / jQuery / CSS
 - done while Mentoring for Lighthouse Labs Part-time course
 
