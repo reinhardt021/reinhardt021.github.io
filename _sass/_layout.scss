@@ -27,8 +27,7 @@
 .site-nav {
     float: right;
     line-height: 56px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 2em;
 
     .menu-icon {
         display: none;
@@ -37,6 +36,8 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        font-weight: bold;
+        font-size: 1.5em
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {

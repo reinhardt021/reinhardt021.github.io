@@ -15,6 +15,8 @@ permalink: /a/
 
 ---------
 
+> *~ WORDS to live by ~*
+
 > "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
 
 > "Strive not to be a person of success, but a person of value." - Albert Einstein
@@ -31,11 +33,10 @@ permalink: /a/
 
 > "Let go your earthly tether. Enter the void. Empty and become wind." - Laghima
 
-> *~ words to live by ~*
-
 
 ---------
 
+## REFERENCES
 
 **LEARN**
 :: <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
@@ -92,7 +93,7 @@ permalink: /a/
 
 ---------
 
-### Antifragile
+## Antifragile
 * Responses to variability and stress come from the outside. If something is fragile and it’s exposed to stress, there’s nothing built in to help fend off that stressor
 * **Less is usually more with antifragility**. To become anti-fragile, it pays to be small. With smallness comes increased agility and flexibility during volatile and chaotic times. If I were navigating a foggy sea filled with hidden icebergs, I’d rather be a passenger on a small, but maneuverable jet boat than a giant, but sluggish ocean liner.
 * **Responses to variability and stress are built into the antifragile**
@@ -119,7 +120,7 @@ permalink: /a/
 
 ---------
 
-### Deep Work
+## Deep Work
 * Deep Work Helps You Quickly Learn Hard Things
   * Deliberate Practice
      1. your attention is focused tightly on a specific skill you’re trying to improve or an idea you’re trying to master
@@ -171,7 +172,7 @@ permalink: /a/
 
 ---------
 
-### Accelerated Learning
+## Accelerated Learning
 1. DECONSTRUCTION: find the pieces
 2. SELECTION: 80 / 20
 3. SEQUENCING: lead dominoes?
@@ -254,7 +255,7 @@ permalink: /a/
 
 ---------
 
-### Scientific Method
+## Scientific Method
 1. CHARACTERIZATIONS (formulate a question): observations, definitions, measurements of subject of inquiry
 2. HYPOTHESIS: theoretical, hypothetical explanations of observations & measurements
 3. PREDICTIONS: reasoning including logical deduction from the hypothesis or theory
