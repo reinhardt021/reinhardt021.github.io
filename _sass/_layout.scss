@@ -27,6 +27,8 @@
 .site-nav {
     float: right;
     line-height: 56px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 
     .menu-icon {
         display: none;
@@ -73,7 +75,6 @@
         .trigger {
             clear: both;
             display: none;
-            padding: 10px;
         }
 
         &:hover .trigger {

@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 
-> {{ site.description }}
-
 
 ## WORK in progress...
 > Places I've been fortunate enough to work in the past
@@ -34,8 +32,7 @@ permalink: /about/
   - Database analysis
   - Database cleanup
 
-   
-     
+---------
 
 <!--![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}-->
 
