@@ -9,7 +9,7 @@ permalink: /about/
 ---------
 
 ## WORK in progress...
-> Places I've been fortunate enough to work in the past
+> Places I've been fortunate enough to work
 
 ### Software Engineer  _@Sycle_
 - **Technologies**: PHP / Laravel / JS / Angular / MySQL / Bitbucket
