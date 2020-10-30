@@ -36,66 +36,9 @@ permalink: /x/
 
 ---------
 
-## REFERENCES
+<div class="antifragile" markdown=1>
 
-**LEARN**
-:: <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
-:: <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
-:: <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a>
-:: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
-:: <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
-
-**SIMPLIFY**
-:: <a href="http://www.zenhabits.net/">Zen Habits</a>
-:: <a href="http://www.bemorewithless.com/">Be More With Less</a>
-:: <a href="http://www.becomingminimalist.com/">Becoming Minimalist</a>
-:: <a href="http://www.lifeedited.com/">Lifeedited</a>
-:: <a href="http://www.lifehacker.com/">Lifehacker</a>
-:: <a href="http://www.treehugger.com/">Treehugger</a>
-
-**DESIGN**
-:: <a href="http://www.core77.com/">Core77 - Industrial Design</a>
-:: <a href="http://www.design-milk.com/">Design Milk</a>
-:: <a href="http://www.dezeen.com/">Dezeen</a>
-:: <a href="https://www.azuremagazine.com/">Azure Magazine</a>
-:: <a href="http://www.surfacemag.com/">Surface Magazine</a>
-:: <a href="https://www.bigmedium.com/">Big Medium</a>
-:: <a href="https://www.dwell.com/">Dwell</a>
-:: <a href="https://99percentinvisible.org/episodes/">99% Invisible</a>
-
-**MUSE**
-:: <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
-:: <a href="http://www.fastcompany.com/">Fast Company</a>
-:: <a href="http://www.inc.com/">Inc</a>
-
-**TOOLS**
-:: <a href="http://the-knowledge.org/en-gb/"> The Knowledge: How to Rebuild the World From Scratch </a>
-:: <a href="https://www.newscientist.com/"> New Scientist </a>
-:: <a href="http://www.nature.com/"> Nature </a>
-:: <a href="https://aeon.co/"> Aeon </a>
-:: <a href="https://news.ycombinator.com/"> Hacker News </a>
-:: <a href="http://www.wired.com/"> Wired </a> :: <a href="http://www.theverge.com/"> the Verge </a>
-:: <a href="http://www.gizmodo.com/"> Gizmodo </a> :: <a href="http://www.io9.com/"> Io9 </a>
-:: <a href="http://www.techvibes.com/global"> TechVibes </a>
-:: <a href="http://www.technologyreview.com/"> MIT Tech Review </a> :: <a href="http://news.mit.edu/"> MIT news </a>
-:: <a href="https://devchat.tv/js-jabber">Javascript Jabber</a>
-:: <a href="http://www.fullstackradio.com/">Full Stack Radio</a>
-:: <a href="http://www.se-radio.net/">Software Engineering Radio</a>
-:: <a href="https://developertea.com/">Developer Tea</a>
-:: <a href="http://aitopics.org/news">AI Topics in the News</a>
-:: <a href="http://diamandis.com/abundance-insider">Diamandis: Abundance Insider</a>
-:: <a href="http://diamandis.com/tech-blog">Diamandis: Tech Blog</a>
-:: <a href="http://velocity.uwaterloo.ca/">Velocity</a>
-:: <a href="http://news.communitech.ca/">Communitech</a>
-:: <a href="http://makezine.com/">Make: We are all Makers</a>
-:: <a href="https://www.hackerrank.com/domains">HackerRank</a>
-:: <a href="http://highline.vc/blog">Highline: Blog</a>
-
----------
-
-<div class="antifragile" mardown=1>
-
-## Antifragile
+## ANTIFRAGILE
 * Responses to variability and stress come from the outside. If something is fragile and it’s exposed to stress, there’s nothing built in to help fend off that stressor
 * **Less is usually more with antifragility**. To become anti-fragile, it pays to be small. With smallness comes increased agility and flexibility during volatile and chaotic times. If I were navigating a foggy sea filled with hidden icebergs, I’d rather be a passenger on a small, but maneuverable jet boat than a giant, but sluggish ocean liner.
 * **Responses to variability and stress are built into the antifragile**
@@ -126,7 +69,7 @@ permalink: /x/
 
 <div class="deep-work" markdown=1>
 
-## Deep Work
+## DEEP WORK
 * Deep Work Helps You Quickly Learn Hard Things
   * Deliberate Practice
      1. your attention is focused tightly on a specific skill you’re trying to improve or an idea you’re trying to master
@@ -182,7 +125,7 @@ permalink: /x/
 
 <div class="accelerated-learning" markdown=1>
 
-## Accelerated Learning
+## ACCELERATED LEARNING
 1. DECONSTRUCTION: find the pieces
 2. SELECTION: 80 / 20
 3. SEQUENCING: lead dominoes?
@@ -265,20 +208,72 @@ permalink: /x/
 
 </div>
 
----------
+```
 
-<div class="scientific-method" markdown=1>
+SCIENTIFIC METHOD
 
-## Scientific Method
 1. CHARACTERIZATIONS (formulate a question): observations, definitions, measurements of subject of inquiry
 2. HYPOTHESIS: theoretical, hypothetical explanations of observations & measurements
 3. PREDICTIONS: reasoning including logical deduction from the hypothesis or theory
 4. EXPERIMENTS: tests of all the above
 5. ANALYSIS: determine what test results show & deciding on next actions to take
 
-</div>
+```
 
----------
+## REFERENCES
+
+**LEARN**
+:: <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
+:: <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
+:: <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a>
+:: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
+:: <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
+
+**SIMPLIFY**
+:: <a href="http://www.zenhabits.net/">Zen Habits</a>
+:: <a href="http://www.bemorewithless.com/">Be More With Less</a>
+:: <a href="http://www.becomingminimalist.com/">Becoming Minimalist</a>
+:: <a href="http://www.lifeedited.com/">Lifeedited</a>
+:: <a href="http://www.lifehacker.com/">Lifehacker</a>
+:: <a href="http://www.treehugger.com/">Treehugger</a>
+
+**DESIGN**
+:: <a href="http://www.core77.com/">Core77 - Industrial Design</a>
+:: <a href="http://www.design-milk.com/">Design Milk</a>
+:: <a href="http://www.dezeen.com/">Dezeen</a>
+:: <a href="https://www.azuremagazine.com/">Azure Magazine</a>
+:: <a href="http://www.surfacemag.com/">Surface Magazine</a>
+:: <a href="https://www.bigmedium.com/">Big Medium</a>
+:: <a href="https://www.dwell.com/">Dwell</a>
+:: <a href="https://99percentinvisible.org/episodes/">99% Invisible</a>
+
+**MUSE**
+:: <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
+:: <a href="http://www.fastcompany.com/">Fast Company</a>
+:: <a href="http://www.inc.com/">Inc</a>
+
+**TOOLS**
+:: <a href="http://the-knowledge.org/en-gb/"> The Knowledge: How to Rebuild the World From Scratch </a>
+:: <a href="https://www.newscientist.com/"> New Scientist </a>
+:: <a href="http://www.nature.com/"> Nature </a>
+:: <a href="https://aeon.co/"> Aeon </a>
+:: <a href="https://news.ycombinator.com/"> Hacker News </a>
+:: <a href="http://www.wired.com/"> Wired </a> :: <a href="http://www.theverge.com/"> the Verge </a>
+:: <a href="http://www.gizmodo.com/"> Gizmodo </a> :: <a href="http://www.io9.com/"> Io9 </a>
+:: <a href="http://www.techvibes.com/global"> TechVibes </a>
+:: <a href="http://www.technologyreview.com/"> MIT Tech Review </a> :: <a href="http://news.mit.edu/"> MIT news </a>
+:: <a href="https://devchat.tv/js-jabber">Javascript Jabber</a>
+:: <a href="http://www.fullstackradio.com/">Full Stack Radio</a>
+:: <a href="http://www.se-radio.net/">Software Engineering Radio</a>
+:: <a href="https://developertea.com/">Developer Tea</a>
+:: <a href="http://aitopics.org/news">AI Topics in the News</a>
+:: <a href="http://diamandis.com/abundance-insider">Diamandis: Abundance Insider</a>
+:: <a href="http://diamandis.com/tech-blog">Diamandis: Tech Blog</a>
+:: <a href="http://velocity.uwaterloo.ca/">Velocity</a>
+:: <a href="http://news.communitech.ca/">Communitech</a>
+:: <a href="http://makezine.com/">Make: We are all Makers</a>
+:: <a href="https://www.hackerrank.com/domains">HackerRank</a>
+:: <a href="http://highline.vc/blog">Highline: Blog</a>
 
 ![Tough Mudder]({{ site.url }}/assets/2017-tough-mudder-original.jpg){: #tough-mudder}
 _🤓 learn laugh live..._
