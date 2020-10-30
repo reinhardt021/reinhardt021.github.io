@@ -265,4 +265,4 @@ permalink: /x/
 ---------
 
 ![Tough Mudder]({{ site.url }}/assets/2017-tough-mudder-original.jpg){: #tough-mudder}
-_learn laugh live..._
+_🤓 learn laugh live..._
