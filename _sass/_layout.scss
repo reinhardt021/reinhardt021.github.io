@@ -119,7 +119,7 @@
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
-    justify-content: center;
+    text-align: center;
 }
 
 .footer-col {
