@@ -38,7 +38,7 @@ permalink: /about/
 
 <!--![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}-->
 
-## FUN things
+## PROJECTS
 > Things I've had a little fun building 
 
 <!-- # [Rotten Mangoed](http://rotten-mangoed.herokuapp.com/) -->
@@ -94,7 +94,7 @@ permalink: /about/
 
 
 ![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
-_📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_  
+_📌 Canada: Toronto, ON | Vancouver, BC + New Zealand: Wellington_  
 
 
 <!--![Vancouver Andy Livingstone Park]({{ site.url }}/assets/VAN_20160123_031328.jpg){: #contact-pic}-->
