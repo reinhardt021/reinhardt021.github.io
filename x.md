@@ -4,10 +4,13 @@ title: 🚀
 permalink: /x/
 ---
 
-Every situation is what you make of it. So make the most of it.
-Start wherever you are right now. Do what you can with what you have.
-Existence has a rhythm of going between chaos and order.
-So have focus when you need to but don't forget to have fun.
+## Personal Mantras
+* Every situation is what you make of it. So make the most of it.
+* Start wherever you are right now & Do what you can with what you have.
+* Existence has a rhythm of going between chaos and order.
+  * Focus intensely when you need to but have fun with it
+* Decided that you want it more than you fear it
+* Enjoy the process & play
 
 ---------
 

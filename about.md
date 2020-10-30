@@ -8,6 +8,7 @@ permalink: /about/
 # HELLO! HELLO!
 
 *Welcome to my little cove on the web. Pleasure to have you here :)*
+{{ site.description }}
 
 ![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
 _📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_  
