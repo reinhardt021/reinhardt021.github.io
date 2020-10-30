@@ -93,6 +93,8 @@ permalink: /x/
 
 ---------
 
+<div class="antifragile" mardown=1>
+
 ## Antifragile
 * Responses to variability and stress come from the outside. If something is fragile and it’s exposed to stress, there’s nothing built in to help fend off that stressor
 * **Less is usually more with antifragility**. To become anti-fragile, it pays to be small. With smallness comes increased agility and flexibility during volatile and chaotic times. If I were navigating a foggy sea filled with hidden icebergs, I’d rather be a passenger on a small, but maneuverable jet boat than a giant, but sluggish ocean liner.
@@ -118,7 +120,11 @@ permalink: /x/
 * **Keep your options open**
   * increase optionality: more savings, more skills
 
+</div>
+
 ---------
+
+<div class="deep-work" markdown=1>
 
 ## Deep Work
 * Deep Work Helps You Quickly Learn Hard Things
@@ -169,6 +175,8 @@ permalink: /x/
     * not a question / proposal that interests you
     * nothing really good would happen if you did respond & nothing really bad would happen if you didn’t
 * Bias your time toward depth
+
+</div>
 
 ---------
 
@@ -259,12 +267,16 @@ permalink: /x/
 
 ---------
 
+<div class="scientific-method" markdown=1>
+
 ## Scientific Method
 1. CHARACTERIZATIONS (formulate a question): observations, definitions, measurements of subject of inquiry
 2. HYPOTHESIS: theoretical, hypothetical explanations of observations & measurements
 3. PREDICTIONS: reasoning including logical deduction from the hypothesis or theory
 4. EXPERIMENTS: tests of all the above
 5. ANALYSIS: determine what test results show & deciding on next actions to take
+
+</div>
 
 ---------
 
