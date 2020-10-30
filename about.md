@@ -6,37 +6,36 @@ permalink: /about/
 
 > A curious mind obsessesed with understanding and cognitive science that connects psychology, design, tech, and life (~health ~recovery ~growth)
 
----------
 
-## WORK in progress...
-> Places I've been fortunate enough to work
+```
 
-### Software Engineer  _@Sycle_
-- **Technologies**: PHP / Laravel / JS / Angular / MySQL / Bitbucket
+WORK in progress...
+> Teams I've been fortunate enough to work with
+
+Software Engineer  _@Sycle_
+- Technologies: PHP / Laravel / JS / Angular / MySQL / Bitbucket
 - Projects:
   - Text & Email Reminders using a 3rd Party API
   - Password reset feature
   - Clinic Reports on Patient Data
 
-### Full-Stack Developer _@Voleo_
-- **Technologies**: PHP / Laravel / Angular / MySQL / Github
+Full-Stack Developer _@Voleo_
+- Technologies: PHP / Laravel / Angular / MySQL / Github
 - Projects:
   - Creation of automated tests
   - API endpoints
 
-### Teaching Assistant _@Lighthouse Labs_
-- **Technologies**: Ruby / Rails / ERB / JavaScript / Node.js / React
+Teaching Assistant _@Lighthouse Labs_
+- Technologies: Ruby / Rails / ERB / JavaScript / Node.js / React
 - Part-Time Mentor / Teaching Assistant to beter assist students one on one
 
-### Install Base & Warranty Analyst _@Christie Digital_
-- **Technologies**: Excel / Oracle: JD Enterprise One
+Install Base & Warranty Analyst _@Christie Digital_
+- Technologies: Excel / Oracle: JD Enterprise One
 - Projects:
   - Database analysis
   - Database cleanup
 
----------
-
-<!--![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}-->
+```
 
 ## PROJECTS
 > Things I've had a little fun building 
