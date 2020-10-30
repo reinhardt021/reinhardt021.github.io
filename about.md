@@ -6,6 +6,8 @@ permalink: /about/
 
 > A curious mind obsessesed with understanding and cognitive science that connects psychology, design, tech, and life (~health ~recovery ~growth)
 
+---------
+
 ## WORK in progress...
 > Places I've been fortunate enough to work in the past
 
