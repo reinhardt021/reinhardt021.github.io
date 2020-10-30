@@ -5,13 +5,10 @@ permalink: /about/
 ---
 
 
-{{ site.description }}
-
-![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
-_📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_  
+> {{ site.description }}
 
 
-## ADVENTURES
+## WORK in PROGRESS...
 
 ### Software Engineer  _@Sycle_
 - **Technologies**: PHP / Laravel / JS / Angular / MySQL / Bitbucket
@@ -39,9 +36,9 @@ _📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_
    
      
 
-![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}
+<!--![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}-->
 
-## WORK in PROGRESS...
+## FUN things
 
 <!-- # [Rotten Mangoed](http://rotten-mangoed.herokuapp.com/) -->
 
@@ -93,6 +90,10 @@ _📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_
 
 - built using Ruby / Sinatra Framework / JavaScript / jQuery / CSS
 - done while Mentoring for Lighthouse Labs Part-time course
+
+
+![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
+_📌 Canada: Toronto, ON | Vancouver, BC / New Zealand: Wellington_  
 
 
 <!--![Vancouver Andy Livingstone Park]({{ site.url }}/assets/VAN_20160123_031328.jpg){: #contact-pic}-->
