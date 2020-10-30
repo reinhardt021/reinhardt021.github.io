@@ -172,6 +172,8 @@ permalink: /x/
 
 ---------
 
+<div class="accelerated-learning" markdown=1>
+
 ## Accelerated Learning
 1. DECONSTRUCTION: find the pieces
 2. SELECTION: 80 / 20
@@ -252,6 +254,8 @@ permalink: /x/
     * living?
     * businesses?
     * something I do for fun?
+
+</div>
 
 ---------
 
