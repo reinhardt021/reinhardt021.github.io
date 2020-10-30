@@ -5,9 +5,6 @@ permalink: /about/
 ---
 
 
-# HELLO! HELLO!
-
-*Welcome to my little cove on the web. Pleasure to have you here :)*
 {{ site.description }}
 
 ![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
