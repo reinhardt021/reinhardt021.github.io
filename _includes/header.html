@@ -13,7 +13,10 @@
             </a>
 
             <div class="trigger">
-                <a class="page-link" href="{{ site.baseurl }}/">🏠</a> 
+                <!--<a class="page-link" href="{{ site.baseurl }}/">🏠</a> -->
+                <a href="{{ site.baseurl }}/">
+                  <img id="footer-profile" src="{{ site.url }}/assets/2017-tough-mudder-profile.jpg">
+                </a>
                 {% for my_page in site.pages %}
                     {% if my_page.title %}
                         <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
