@@ -4,7 +4,7 @@ title: 🚀
 permalink: /a/
 ---
 
-## CURATED THOUGHTS
+## CURATED Mental Models
 * Every situation is what you make of it. So make the most of it.
 * Start wherever you are right now & Do what you can with what you have.
 * Existence has a rhythm of going between chaos and order.

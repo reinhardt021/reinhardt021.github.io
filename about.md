@@ -8,7 +8,8 @@ permalink: /about/
 > {{ site.description }}
 
 
-## WORK in PROGRESS...
+## WORK in progress...
+> Places I've been fortunate enough to work in the past
 
 ### Software Engineer  _@Sycle_
 - **Technologies**: PHP / Laravel / JS / Angular / MySQL / Bitbucket
@@ -39,6 +40,7 @@ permalink: /about/
 <!--![Loci]({{ site.url }}/assets/projects-pic.png){: #projects-pic}-->
 
 ## FUN things
+> Things I've had a little fun building 
 
 <!-- # [Rotten Mangoed](http://rotten-mangoed.herokuapp.com/) -->
 
