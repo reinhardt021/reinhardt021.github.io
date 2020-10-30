@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🧠 
-permalink: /a/
+permalink: /x/
 ---
 
 
