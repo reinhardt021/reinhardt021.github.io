@@ -5,7 +5,8 @@ permalink: /x/
 ---
 
 
-## Curated MENTAL MODELS
+# 🧠 Curated MENTAL MODELS
+
 * Every situation is what you make of it. So make the most of it.
 * Start wherever you are right now & Do what you can with what you have.
 * Existence has a rhythm of going between chaos and order.

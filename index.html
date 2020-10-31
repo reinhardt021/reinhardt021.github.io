@@ -9,13 +9,14 @@ layout: default
     <!--<hr/>-->
     <blockquote>{{ site.description }}</blockquote>
  
-    <h1 class="page-heading">&#x1F4DD; THOUGHTS</h1>
+    <h1 class="page-heading">&#x1F4DD; THOUGHTS</h1>
     <ul class="post-list">
         {% for post in site.posts %}
             <li>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                     {{ post.title }} <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
                 </a>
+                {{ post.excerpt }}
             </li>
         {% endfor %}
     </ul>
