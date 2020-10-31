@@ -38,7 +38,7 @@ Install Base & Warranty Analyst _@Christie Digital_
 
 ```
 
-## PROJECTS
+## 🛠 PROJECTS
 > Things I've had a little fun building 
 
 <!-- # [Rotten Mangoed](http://rotten-mangoed.herokuapp.com/) -->

@@ -17,7 +17,7 @@ permalink: /x/
 
 ---------
 
-> *~ WORDS to live by ~*
+> *~ 📖  WORDS to live by ~*
 
 > "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
 
@@ -38,7 +38,7 @@ permalink: /x/
 
 <div class="antifragile" markdown=1>
 
-## ANTIFRAGILE
+## 🌳 ANTIFRAGILE
 * Responses to variability and stress come from the outside. If something is fragile and it’s exposed to stress, there’s nothing built in to help fend off that stressor
 * **Less is usually more with antifragility**. To become anti-fragile, it pays to be small. With smallness comes increased agility and flexibility during volatile and chaotic times. If I were navigating a foggy sea filled with hidden icebergs, I’d rather be a passenger on a small, but maneuverable jet boat than a giant, but sluggish ocean liner.
 * **Responses to variability and stress are built into the antifragile**
@@ -69,7 +69,7 @@ permalink: /x/
 
 <div class="deep-work" markdown=1>
 
-## DEEP WORK
+## 🌀 DEEP WORK
 * Deep Work Helps You Quickly Learn Hard Things
   * Deliberate Practice
      1. your attention is focused tightly on a specific skill you’re trying to improve or an idea you’re trying to master
@@ -125,7 +125,7 @@ permalink: /x/
 
 <div class="accelerated-learning" markdown=1>
 
-## ACCELERATED LEARNING
+## 🚀 ACCELERATED LEARNING
 1. DECONSTRUCTION: find the pieces
 2. SELECTION: 80 / 20
 3. SEQUENCING: lead dominoes?
@@ -210,7 +210,7 @@ permalink: /x/
 
 ```
 
-SCIENTIFIC METHOD
+🔭 SCIENTIFIC METHOD
 
 1. CHARACTERIZATIONS (formulate a question): observations, definitions, measurements of subject of inquiry
 2. HYPOTHESIS: theoretical, hypothetical explanations of observations & measurements
@@ -220,7 +220,7 @@ SCIENTIFIC METHOD
 
 ```
 
-## REFERENCES
+## 📚 REFERENCES
 
 **LEARN**
 :: <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
