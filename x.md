@@ -229,13 +229,10 @@ SCIENTIFIC METHOD
 :: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
 :: <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
 
-**SIMPLIFY**
-:: <a href="http://www.zenhabits.net/">Zen Habits</a>
-:: <a href="http://www.bemorewithless.com/">Be More With Less</a>
-:: <a href="http://www.becomingminimalist.com/">Becoming Minimalist</a>
-:: <a href="http://www.lifeedited.com/">Lifeedited</a>
-:: <a href="http://www.lifehacker.com/">Lifehacker</a>
-:: <a href="http://www.treehugger.com/">Treehugger</a>
+**MUSE**
+:: <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
+:: <a href="http://www.fastcompany.com/">Fast Company</a>
+:: <a href="http://www.inc.com/">Inc</a>
 
 **DESIGN**
 :: <a href="http://www.core77.com/">Core77 - Industrial Design</a>
@@ -247,10 +244,13 @@ SCIENTIFIC METHOD
 :: <a href="https://www.dwell.com/">Dwell</a>
 :: <a href="https://99percentinvisible.org/episodes/">99% Invisible</a>
 
-**MUSE**
-:: <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
-:: <a href="http://www.fastcompany.com/">Fast Company</a>
-:: <a href="http://www.inc.com/">Inc</a>
+**SIMPLIFY**
+:: <a href="http://www.zenhabits.net/">Zen Habits</a>
+:: <a href="http://www.bemorewithless.com/">Be More With Less</a>
+:: <a href="http://www.becomingminimalist.com/">Becoming Minimalist</a>
+:: <a href="http://www.lifeedited.com/">Lifeedited</a>
+:: <a href="http://www.lifehacker.com/">Lifehacker</a>
+:: <a href="http://www.treehugger.com/">Treehugger</a>
 
 **TOOLS**
 :: <a href="http://the-knowledge.org/en-gb/"> The Knowledge: How to Rebuild the World From Scratch </a>
