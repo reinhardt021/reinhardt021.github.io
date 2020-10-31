@@ -5,13 +5,13 @@ date:   2016-11-28 01:04:57 -0800
 categories: jekyll update
 ---
 
-<!-- # ... Begins with a Single Step - Lao Tzu -->
-
-<!-- `Think Big, Start Small and Scale Fast. - Jim Carroll` -->
+Less, but Better
 
 1. First know what you want
 2. Second eliminate the excess
 3. ...
+
+<!-- `Think Big, Start Small and Scale Fast. - Jim Carroll` -->
 
 <!-- I want to make existence a better experience for others.
 At any scale, this is still a big endeavor because you must first understand what can be made better.

@@ -5,7 +5,7 @@ date:   2015-12-22 01:34:57 -0500
 categories: jekyll update
 ---
 
-# ... Begins with a Single Step - Lao Tzu
+** ... Begins with a Single Step** - Lao Tzu
 
 `Think Big, Start Small and Scale Fast. - Jim Carroll`
 
