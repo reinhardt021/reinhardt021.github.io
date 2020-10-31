@@ -6,6 +6,7 @@ permalink: /x/
 
 
 # 🧠 Curated MENTAL MODELS
+> "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
 
 * Every situation is what you make of it. So make the most of it.
 * Start wherever you are right now & Do what you can with what you have.
@@ -25,8 +26,6 @@ permalink: /x/
 > "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
 
 > "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
-
-> "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
 
 > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj
 
