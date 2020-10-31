@@ -5,11 +5,12 @@ date:   2016-11-28 01:04:57 -0800
 categories: jekyll update
 ---
 
-Less, but Better
+> "Less, but Better" ~ Dieter Rams
 
-1. First know what you want
-2. Second eliminate the excess
-3. ...
+1. Define what you do NOT want
+2. Describe what you DO want
+3. Eliminate the excess
+4. Repeat the process
 
 <!-- `Think Big, Start Small and Scale Fast. - Jim Carroll` -->
 
