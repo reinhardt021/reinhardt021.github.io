@@ -4,8 +4,9 @@ title: 🧠
 permalink: /x/
 ---
 
+# 🧠 Curated MENTAL MODELS
+{:.main-title}
 
-# {:.main-title} 🧠 Curated MENTAL MODELS
 > "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
 
 * Every situation is what you make of it. So make the most of it.

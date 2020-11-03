@@ -4,7 +4,9 @@ title: REINHARDT
 permalink: /about/
 ---
 
-# {:.main-title} 🕺 REINHARDT
+# 🕺 REINHARDT
+{:.main-title}
+
 > A curious mind obsessesed with understanding and cognitive science that connects psychology, design, tech, and life (~health ~recovery ~growth)
 
 
