@@ -5,7 +5,7 @@ permalink: /x/
 ---
 
 
-# 🧠 Curated MENTAL MODELS
+# 🧠 Curated MENTAL MODELS{: .main-title}
 > "Inventing is a combination of brains and material. The more brains you use, the less material you need." - Charles Kettering
 
 * Every situation is what you make of it. So make the most of it.
@@ -19,17 +19,19 @@ permalink: /x/
 
 > *~ 📖  WORDS to live by ~*
 
-> "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
+> "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
 
 > "Strive not to be a person of success, but a person of value." - Albert Einstein
 
-> "Weniger, Aber Besser" ("Less, But Better") - Dieter Rams
-
-> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
+> "Before you can change the world around you, you must learn to change the worlds within you." - Merlin
 
 > "Wisdom is knowing I am nothing, Love is knowing I am everything, and between the two my life moves" - Nisargadatta Maharaj
 
+> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - Richard Buckminster Fuller
+
 > "If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present." - Lao Tzu
+
+> "If you want 1 year of prosperity, grow grain. If you want 10 years of prosperity, grow trees. If you want 100 years of prosperity, grow people." - Chinese Proverb
 
 > "Let go your earthly tether. Enter the void. Empty and become wind." - Laghima
 
