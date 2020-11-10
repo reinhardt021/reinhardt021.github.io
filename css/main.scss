@@ -103,6 +103,11 @@ body {
     margin-bottom: 10px;
 }
 
+#header-image {
+    max-height: 15em;
+    overflow: hidden;
+}
+
 #adventure {
     width: 100%;
 }
