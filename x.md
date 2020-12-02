@@ -232,11 +232,13 @@ permalink: /x/
 :: <a href="https://www.scotthyoung.com/blog/"> Ultralearning </a>
 :: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
 :: <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
+:: <a href="https://sourcemaking.com/design_patterns">Design Patterns</a>
 
 **MUSE**
 :: <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
 :: <a href="http://www.fastcompany.com/">Fast Company</a>
 :: <a href="http://www.inc.com/">Inc</a>
+:: <a href="https://killedbygoogle.com/">Killed By Google</a>
 
 **DESIGN**
 :: <a href="http://www.core77.com/">Core77 - Industrial Design</a>
