@@ -69,3 +69,28 @@ Before I knew it,
 I was already making my way past Greta Point and into Evan's bay.
 And I could see the wind sculpture near the finish line.
 
+32 minutes for 6.5 km. 
+Not bad for someone that started with a bad back.
+I'd say joining the run club really helped get me back into running.
+I forgot how liberating it is to move again.
+But freedom comes at a price.
+For me that's stretching before and after.
+
+I will definitely keep this up. 
+It may not have been easy and I still have much more ground to cover.
+I do want to get better and faster.
+But today is a small win and I'm glad that despite my back, I went running anyways.
+(See what I did there :P hahaha)
+
+Wellington does have much to offer.
+I think it's time I gave it a little more of a chance.
+I feel like I long for more days like these.
+And yeah some days I don't feel like doing sh*t and thats ok sometimes.
+But I'm glad I did more than nothing today :)
+
+
+
+Signed,
+Reinhardt
+
+
