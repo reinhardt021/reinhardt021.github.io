@@ -233,12 +233,14 @@ permalink: /x/
 :: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
 :: <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
 :: <a href="https://sourcemaking.com/design_patterns">Design Patterns</a>
+:: <a href="https://www.popsci.com/science/">Popular Science</a>
 
 **MUSE**
 :: <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
 :: <a href="http://www.fastcompany.com/">Fast Company</a>
 :: <a href="http://www.inc.com/">Inc</a>
 :: <a href="https://killedbygoogle.com/">Killed By Google</a>
+:: <a href="https://www.producthunt.com/?ref=header_nav">Product Hunt</a>
 
 **DESIGN**
 :: <a href="http://www.core77.com/">Core77 - Industrial Design</a>
@@ -246,7 +248,6 @@ permalink: /x/
 :: <a href="http://www.dezeen.com/">Dezeen</a>
 :: <a href="https://www.azuremagazine.com/">Azure Magazine</a>
 :: <a href="http://www.surfacemag.com/">Surface Magazine</a>
-:: <a href="https://www.bigmedium.com/">Big Medium</a>
 :: <a href="https://www.dwell.com/">Dwell</a>
 :: <a href="https://99percentinvisible.org/episodes/">99% Invisible</a>
 
