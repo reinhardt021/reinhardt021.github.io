@@ -234,6 +234,15 @@ permalink: /x/
 :: <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
 :: <a href="https://sourcemaking.com/design_patterns">Design Patterns</a>
 :: <a href="https://www.popsci.com/science/">Popular Science</a>
+:: <a href="https://mindhacks.com/">Mind Hacks</a>
+:: <a href="https://www.cogneurosociety.org/">Cognitive Neuroscience Society</a>
+:: <a href="https://www.discovermagazine.com/mind">Discover: Mind</a>
+:: <a href="https://news.mit.edu/department/brain-and-cognitive-sciences">MIT: Brain and Cognitive Sciences</a>
+:: <a href="https://mcgovern.mit.edu/news/">MIT: McGovern Institude for Brain Research</a>
+:: <a href="https://knowingneurons.com/">Knowing Neurons: neuroscience education by young neuroscientists</a>
+:: <a href="https://bmcneurosci.biomedcentral.com/articles">BMC Neuroscience</a>
+:: <a href="https://neurosciencenews.com/">Neuroscience News</a>
+
 
 **MUSE**
 :: <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
