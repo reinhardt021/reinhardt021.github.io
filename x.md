@@ -232,6 +232,7 @@ permalink: /x/
 :: <a href="https://www.scotthyoung.com/blog/"> Ultralearning </a>
 :: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
 :: <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
+:: <a href="https://fs.blog/blog/"> Farnam Street Blog </a>
 :: <a href="https://sourcemaking.com/design_patterns">Design Patterns</a>
 :: <a href="https://www.popsci.com/science/">Popular Science</a>
 :: <a href="https://mindhacks.com/">Mind Hacks</a>
