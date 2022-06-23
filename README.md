@@ -1,4 +1,4 @@
-# Reinhardt Cagara personal projects site
+# Reinhardt personal site
 
 ## Local Setup
 
