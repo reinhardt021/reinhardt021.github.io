@@ -96,7 +96,7 @@ Install Base & Warranty Analyst _@Christie Digital_
 
 
 ![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
-_📌 Canada: Toronto, ON | Vancouver, BC + New Zealand: Wellington_  
+_📌 🇨🇦 Toronto + Vancouver ~ 🇳🇿 Wellington_  
 
 
 <!--![Vancouver Andy Livingstone Park]({{ site.url }}/assets/VAN_20160123_031328.jpg){: #contact-pic}-->
