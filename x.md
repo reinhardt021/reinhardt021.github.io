@@ -226,48 +226,48 @@ permalink: /x/
 ## 📚 REFERENCES
 
 **LEARN**
-:: <a href="http://www.iwillteachyoutoberich.com/blog/"> I Will Teach You to be Rich </a>
-:: <a href="http://fourhourworkweek.com/blog/"> 4 Hour Work Week </a>
-:: <a href="http://calnewport.com/blog/"> Decoding Patterns of Success </a>
-:: <a href="https://www.scotthyoung.com/blog/"> Ultralearning </a>
-:: <a href="http://www.paulgraham.com/articles.html"> Paul Graham Essays </a>
-:: <a href="http://blog.samaltman.com/"> Sam Altman Blog </a>
-:: <a href="https://fs.blog/blog/"> Farnam Street Blog </a>
-:: <a href="https://sourcemaking.com/design_patterns">Design Patterns</a>
-:: <a href="https://www.popsci.com/science/">Popular Science</a>
-:: <a href="https://mindhacks.com/">Mind Hacks</a>
-:: <a href="https://www.cogneurosociety.org/">Cognitive Neuroscience Society</a>
-:: <a href="https://www.discovermagazine.com/mind">Discover: Mind</a>
-:: <a href="https://news.mit.edu/department/brain-and-cognitive-sciences">MIT: Brain and Cognitive Sciences</a>
-:: <a href="https://mcgovern.mit.edu/news/">MIT: McGovern Institude for Brain Research</a>
-:: <a href="https://knowingneurons.com/">Knowing Neurons: neuroscience education by young neuroscientists</a>
-:: <a href="https://bmcneurosci.biomedcentral.com/articles">BMC Neuroscience</a>
-:: <a href="https://neurosciencenews.com/">Neuroscience News</a>
+* [I Will Teach You to be Rich](http://www.iwillteachyoutoberich.com/blog/)
+:: [4 Hour Work Week](http://fourhourworkweek.com/blog/)
+:: [Paul Graham Essays](http://www.paulgraham.com/articles.html)
+:: [Sam Altman Blog](http://blog.samaltman.com/)
+* [Decoding Patterns of Success](http://calnewport.com/blog/)
+:: [Ultralearning](https://www.scotthyoung.com/blog/)
+:: [Farnam Street Blog](https://fs.blog/blog/)
+:: [Design Patterns](https://sourcemaking.com/design_patterns)
+:: [Mind Hacks](https://mindhacks.com/)
+* [Popular Science](https://www.popsci.com/science/)
+:: [Cognitive Neuroscience Society](https://www.cogneurosociety.org/)
+:: [Discover: Mind](https://www.discovermagazine.com/mind)
+:: [MIT: Brain and Cognitive Sciences](https://news.mit.edu/department/brain-and-cognitive-sciences)
+:: [MIT: McGovern Institude for Brain Research](https://mcgovern.mit.edu/news/)
+:: [Knowing Neurons: neuroscience education by young neuroscientists](https://knowingneurons.com/)
+:: [BMC Neuroscience](https://bmcneurosci.biomedcentral.com/articles)
+:: [Neuroscience News](https://neurosciencenews.com/)
 
 
 **MUSE**
-:: <a href= "http://www.entrepreneur.com/">Entrepreneur</a>
-:: <a href="http://www.fastcompany.com/">Fast Company</a>
-:: <a href="http://www.inc.com/">Inc</a>
-:: <a href="https://killedbygoogle.com/">Killed By Google</a>
-:: <a href="https://www.producthunt.com/?ref=header_nav">Product Hunt</a>
+* [Entrepreneur](http://www.entrepreneur.com/)
+:: [Fast Company](http://www.fastcompany.com/)
+:: [Inc](http://www.inc.com/)
+* [Killed By Google](https://killedbygoogle.com/)
+:: [Product Hunt](https://www.producthunt.com/?ref=header_nav)
 
 **DESIGN**
-:: <a href="http://www.core77.com/">Core77 - Industrial Design</a>
-:: <a href="http://www.design-milk.com/">Design Milk</a>
-:: <a href="http://www.dezeen.com/">Dezeen</a>
-:: <a href="https://www.azuremagazine.com/">Azure Magazine</a>
-:: <a href="http://www.surfacemag.com/">Surface Magazine</a>
-:: <a href="https://www.dwell.com/">Dwell</a>
-:: <a href="https://99percentinvisible.org/episodes/">99% Invisible</a>
+* [Core77 - Industrial Design](http://www.core77.com/)
+:: [Design Milk](http://www.design-milk.com/)
+:: [Dezeen](http://www.dezeen.com/)
+* [Azure Magazine](https://www.azuremagazine.com/)
+:: [Surface Magazine](http://www.surfacemag.com/)
+:: [Dwell](https://www.dwell.com/)
+:: [99% Invisible](https://99percentinvisible.org/episodes/)
 
 **SIMPLIFY**
-:: <a href="http://www.zenhabits.net/">Zen Habits</a>
-:: <a href="http://www.bemorewithless.com/">Be More With Less</a>
-:: <a href="http://www.becomingminimalist.com/">Becoming Minimalist</a>
-:: <a href="http://www.lifeedited.com/">Lifeedited</a>
-:: <a href="http://www.lifehacker.com/">Lifehacker</a>
-:: <a href="http://www.treehugger.com/">Treehugger</a>
+* [Zen Habits](http://www.zenhabits.net/)
+:: [Be More With Less](http://www.bemorewithless.com/)
+:: [Becoming Minimalist](http://www.becomingminimalist.com/)
+* [Lifeedited](http://www.lifeedited.com/)
+:: [Lifehacker](http://www.lifehacker.com/)
+:: [Treehugger](http://www.treehugger.com/)
 
 **TOOLS**
 :: <a href="http://the-knowledge.org/en-gb/"> The Knowledge: How to Rebuild the World From Scratch </a>
