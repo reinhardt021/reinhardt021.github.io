@@ -27,5 +27,5 @@ localhost:4000
 ## TODO:
 
 - [x] replace everything in repo (except for .git folder and README.md)
-- [ ] fix site.baseurl issue showing nothing for the link #// was fixed with "/"?
+- [ ] fix site.baseurl issue showing nothing for the link #// was fixed with "/"? works for local but not remote?
 - [ ] change HOME to be the about page and BLOG instead of ABOUT because you want this to be a hub

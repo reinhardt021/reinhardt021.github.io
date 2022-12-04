@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 #gem "jekyll", "~> 7.0.3", ">= 7.0.3.1"
-gem 'jekyll'
+gem 'jekyll' #// 3.9.2
 gem 'jekyll-gist'
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
