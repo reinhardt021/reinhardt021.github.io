@@ -116,6 +116,7 @@ a.sidebar-nav-item:focus {
 
 #profile-photo {
     border-radius: 50%;
+    margin: 0 auto;
 }
 
 
