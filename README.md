@@ -16,11 +16,8 @@ jekyll serve
 
 ## View the Application
 
-go to the following url
+go to one of the following url
 ```
 localhost:4000
-```
-OR
-```
 127.0.0.1:4000
 ```
