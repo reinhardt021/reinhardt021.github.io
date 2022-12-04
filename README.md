@@ -26,4 +26,6 @@ localhost:4000
 
 ## TODO:
 
-- [ ] replace everything in repo (except for .git folder and README.md)
+- [x] replace everything in repo (except for .git folder and README.md)
+- [x] fix site.baseurl issue showing nothing for the link #// was fixed with "/"
+- [ ] change HOME to be the about page and BLOG instead of ABOUT because you want this to be a hub
