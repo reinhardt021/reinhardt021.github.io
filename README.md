@@ -4,7 +4,7 @@
 
 note that you must have jekyll installed locally
 ```
-sudo gem install jekyll bundler
+bundle install
 ```
 
 ## Run the Server
