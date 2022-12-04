@@ -95,22 +95,19 @@ Install Base & Warranty Analyst _@Christie Digital_
 - done while Mentoring for Lighthouse Labs Part-time course
 
 
-![Self Reflection]({{ site.url }}/public/self-reflection.jpg){: #self-reflection}
+![Self Reflection]({{ site.baseurl }}/public/self-reflection.jpg){: #self-reflection}
 _📌 🇨🇦 Toronto + Vancouver ~ 🇳🇿 Wellington_  
 
 
-<!--![Vancouver Andy Livingstone Park]({{ site.url }}/assets/VAN_20160123_031328.jpg){: #contact-pic}-->
-<!--#### _Otherwise: exploring the world on another adventure_-->
-
 ## Find Me: 
 [
-    ![Twitter]({{ site.url }}/public/icons8-twitter-circled-50.svg){: .socials#twitter}
+    ![Twitter]({{ site.baseurl }}/public/icons8-twitter-circled-50.svg){: .socials#twitter}
 ]({{site.twitter}})
 [
-    ![Github]({{ site.url }}/public/icons8-github-50.svg){: .socials#github}
+    ![Github]({{ site.baseurl }}/public/icons8-github-50.svg){: .socials#github}
 ]({{site.mygithub}})
 [
-    ![LinkedIn]({{ site.url }}/public/icons8-linkedin-circled-50.svg){: .socials#linkedin}
+    ![LinkedIn]({{ site.baseurl }}/public/icons8-linkedin-circled-50.svg){: .socials#linkedin}
 ]({{site.linkedin}})
 
 <!-- OLD stuff -->

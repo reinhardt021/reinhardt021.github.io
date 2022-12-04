@@ -310,5 +310,5 @@ permalink: /x/
 :: <a href="https://www.hackerrank.com/domains">HackerRank</a>
 :: <a href="http://highline.vc/blog">Highline: Blog</a>
 
-![Tough Mudder]({{ site.url }}/public/2017-tough-mudder-original.jpg){: #tough-mudder}
+![Tough Mudder]({{ site.baseurl }}/public/2017-tough-mudder-original.jpg){: #tough-mudder}
 _🤓 learn laugh live..._
