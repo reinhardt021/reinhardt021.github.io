@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ☁️ 
-permalink: /x/
+permalink: /x
 ---
 
 <!-- title: nav & tab title -->
