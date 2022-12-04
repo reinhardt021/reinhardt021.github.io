@@ -17,7 +17,8 @@ url: "https://reinhardt021.github.io" # the base hostname & protocol for your si
 #baseurl: "" #breaks local
 #baseurl: '' #breaks local
 #baseurl: "/" #fixes local not remote
-baseurl: '/' #works for local
+#baseurl: '/' #works for local not remote
+baseurl: / #works for local not remote
 
 
 author:
