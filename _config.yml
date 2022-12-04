@@ -1,21 +1,49 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Dependencies
+markdown:         kramdown #// redcarpet not supported on Jekyll 4+
+highlighter:      pygments
 
-# Site settings
-title: rhythm 
-email: reinhardt.cgr@gmail.com
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Reinhardt
+tagline:          'We endeavor'
+#description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 description: > # this means to ignore newlines until "baseurl:"
-  My personal cove to recover, contemplate, and share. Building the space I need to step beyond my plateaus.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Gateway to another reality. Breadcrumbs to a life lived.
 url: "http://reinhardt021.github.io/" # the base hostname & protocol for your site
-twitter_username: reinhardt021
-github_username:  reinhardt021
-linkedin_username:  reinhardtcagara
-salutations: "Go out & play!"
+baseurl: / # `/` needed for relative permalinks; else About page won't load
 
-# Build settings
-markdown: kramdown
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         3
+
+# Custom vars
+version:          2.1.0
+twitter:          https://twitter.com/reinhardt021
+mygithub:           https://github.com/reinhardt021
+linkedin:         https://linkedin.com/in/reinhardtcagara
+
+#github:
+  #repo:           https://github.com/poole/hyde
+#github: [metadata]
+github:
+  repo:           https://github.com/reinhardt021/reinhardt021.github.io
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from

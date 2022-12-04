@@ -1,13 +1,13 @@
 ---
 layout: page
-title: REINHARDT
+title: About
 permalink: /about/
 ---
 
-# 🕺 REINHARDT
-{:.main-title}
+<!--# 🕺 REINHARDT-->
+<!--{:.main-title}-->
 
-> A curious mind obsessesed with understanding and cognitive science that connects psychology, design, tech, and life (~health ~recovery ~growth)
+> Born in the East, forged in the West. Making a mess in all corners of the world.
 
 
 ```
@@ -95,10 +95,48 @@ Install Base & Warranty Analyst _@Christie Digital_
 - done while Mentoring for Lighthouse Labs Part-time course
 
 
-![Self Reflection]({{ site.url }}/assets/self-reflection.jpg){: #self-reflection}
+![Self Reflection]({{ site.url }}/public/self-reflection.jpg){: #self-reflection}
 _📌 🇨🇦 Toronto + Vancouver ~ 🇳🇿 Wellington_  
 
 
 <!--![Vancouver Andy Livingstone Park]({{ site.url }}/assets/VAN_20160123_031328.jpg){: #contact-pic}-->
 <!--#### _Otherwise: exploring the world on another adventure_-->
 
+## Find Me: 
+[
+    ![Twitter]({{ site.url }}/public/icons8-twitter-circled-50.svg){: .socials#twitter}
+]({{site.twitter}})
+[
+    ![Github]({{ site.url }}/public/icons8-github-50.svg){: .socials#github}
+]({{site.mygithub}})
+[
+    ![LinkedIn]({{ site.url }}/public/icons8-linkedin-circled-50.svg){: .socials#linkedin}
+]({{site.linkedin}})
+
+<!-- OLD stuff -->
+
+<!--<p class="message">-->
+  <!--Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!-->
+<!--</p>-->
+
+<!--In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).-->
+
+<!--There are currently two themes built on Poole:-->
+
+<!--* [Hyde](http://hyde.getpoole.com)-->
+<!--* [Lanyon](http://lanyon.getpoole.com)-->
+
+<!--Learn more and contribute on [GitHub](https://github.com/poole).-->
+
+<!--## Setup-->
+
+<!--Some fun facts about the setup of this project include:-->
+
+<!--* Built for [Jekyll](http://jekyllrb.com)-->
+<!--* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)-->
+<!--* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor-->
+<!--* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)-->
+
+<!--Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).-->
+
+<!--Thanks for reading!-->

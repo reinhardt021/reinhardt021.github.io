@@ -1,16 +1,17 @@
 <!DOCTYPE html>
-<html>
-    {% include head.html %}
-    <body>
-        <div id="header-image">
-            <img id="adventure" src="{{ site.url }}/assets/projects-pic.png"/>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    <!--<div class="layer">-->
+        {% include sidebar.html %}
+
+        <div class="content container">
+          {{ content }}
         </div>
-        {% include header.html %}
-        <div class="page-content">
-            <div class="wrapper">
-                {{ content }}
-            </div>
-        </div>
-        {% include footer.html %}
-    </body>
+    <!--</div>-->
+
+  </body>
 </html>
