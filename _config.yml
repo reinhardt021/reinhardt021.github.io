@@ -12,7 +12,12 @@ tagline:          'We endeavor'
 description: > # this means to ignore newlines until "baseurl:"
   Gateway to another space. Breadcrumbs to a life lived.
 url: "https://reinhardt021.github.io" # the base hostname & protocol for your site
-baseurl: "/" # `/` needed for relative permalinks; else About page won't load
+# `/` needed for relative permalinks; else About page won't load
+#empty does nothing
+#baseurl: "" #breaks local
+#baseurl: '' #breaks local
+#baseurl: "/" #fixes local not remote
+baseurl: '/' #works for local
 
 
 author:
