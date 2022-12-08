@@ -254,8 +254,14 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
+.projects {
+    display: flex;
+    align-items: flex-start;
+}
+
 .socials {
     display: inline;
+    margin: 0;
 }
 
 body {
