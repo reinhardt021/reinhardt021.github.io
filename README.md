@@ -28,6 +28,9 @@ localhost:4000
 
 - [x] replace everything in repo (except for .git folder and README.md)
 - [x] fix site.baseurl issue showing nothing for the link #// was fixed with "/"? works for local but not remote?
+
+- [ ] FIX the BLOG not being able to go to more than to previous bc want to go back
+
 - [ ] change HOME to be the about page and BLOG instead of ABOUT because you want this to be a hub
 - [ ] fix the blog page to just contain timeline of things that can be filtered
 - [ ] fix related posts to show actual related posts
