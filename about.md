@@ -9,7 +9,9 @@ permalink: /about
 
 > Born in the East, forged in the West.  
 > Making a mess in all corners of the world.  
-> "We shape our tools, and then our tools shape us" 
+>
+> "We shape our tools, and then our tools shape us"  
+> I like to build things that I would like to use.
 
 <!-- # [Rotten Mangoed](http://rotten-mangoed.herokuapp.com/) -->
 <!--### [Rotten Mangoed](https://github.com/reinhardtcgr/rotten_mangoes)-->

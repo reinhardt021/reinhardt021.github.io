@@ -1,0 +1,25 @@
+
+.projects {
+    display: flex;
+    align-items: flex-start;
+}
+
+.socials {
+    display: inline;
+    margin: 0 0.25em;
+}
+
+body {
+    /*background-image: url('../pz.jpg');*/
+    /*background-size: 100%;*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+}
+
+.layer {
+    /*background: rgba(255, 255, 255, 0.9);*/
+}
+
+.page-title {
+    opacity: 50%;
+}

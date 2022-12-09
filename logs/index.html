@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Logs
+title: LOGS
 ---
 
+<h1 class="page-title">{{ page.title }}</h1>
 <blockquote>
     A LOG of my thoughts and experiences.<br/> 
     For future reference.
@@ -13,9 +14,7 @@ title: Logs
   {% for post in paginator.posts %}
   <a href="{{ post.url }}">
       <div class="post">
-        <h1 class="post-title">
-            {{ post.title }}
-        </h1>
+        <h1 class="post-title">{{ post.title }}</h1>
 
         <span class="post-date">{{ post.date | date_to_string }}</span>
 
