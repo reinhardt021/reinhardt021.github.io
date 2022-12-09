@@ -23,3 +23,16 @@ body {
 .page-title {
     opacity: 50%;
 }
+
+
+.post-link:hover {
+    text-decoration: none;
+}
+
+.post-link > .post {
+    border-radius: 1em;
+    padding: 0.5em;
+}
+.post-link > .post:hover {
+    background: rgba(0,0,0, 0.1);
+}
