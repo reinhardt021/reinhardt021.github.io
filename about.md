@@ -7,7 +7,8 @@ permalink: /about
 <!--# 🕺 REINHARDT-->
 <!--{:.main-title}-->
 
-> Born in the East, forged in the West. Making a mess in all corners of the world.
+> Born in the East, forged in the West.  
+> Making a mess in all corners of the world.
 
 ## 🛠 PROJECTS
 > Things I've had a little fun building 
