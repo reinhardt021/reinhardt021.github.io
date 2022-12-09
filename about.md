@@ -98,14 +98,10 @@ Install Base & Warranty Analyst _@Christie Digital_
 
 ```
 
-[RESUME](https://www.dropbox.com/s/ecl4kvatqa54drt/ReinhardtCagara.pdf?dl=0)
+For a more eloquent view of my work history: [RESUME](https://www.dropbox.com/s/ecl4kvatqa54drt/ReinhardtCagara.pdf?dl=0).  
+Alternatively ...
 
-
-![Self Reflection]({{ site.baseurl }}/public/self-reflection.jpg){: #self-reflection}
-_📌 🇨🇦 Toronto + Vancouver ~ 🇳🇿 Wellington_  
-
-
-## Find Me: 
+<!--## Find Me: -->
 [
     ![Twitter]({{ site.baseurl }}/public/icons8-twitter-circled-50.svg){: .socials#twitter}
 ]({{site.twitter}})
@@ -115,6 +111,11 @@ _📌 🇨🇦 Toronto + Vancouver ~ 🇳🇿 Wellington_
 [
     ![LinkedIn]({{ site.baseurl }}/public/icons8-linkedin-circled-50.svg){: .socials#linkedin}
 ]({{site.linkedin}})
+
+![Self Reflection]({{ site.baseurl }}/public/self-reflection.jpg){: #self-reflection}
+_📌 🇨🇦 Toronto + Vancouver ~ 🇳🇿 Wellington_  
+
+
 
 <!-- OLD stuff -->
 
