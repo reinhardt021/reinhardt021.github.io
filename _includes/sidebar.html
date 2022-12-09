@@ -12,7 +12,10 @@
     </div>
 
     <nav class="sidebar-nav">
-      <!--<a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Amor Fati</a>-->
+      <a class="sidebar-nav-item{% if page.url == '/logs/' %} active{% endif %}" href="{{ site.baseurl }}/logs">
+          Logs
+      </a>
+      <!--<div>{{ page.url }}</div>-->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with

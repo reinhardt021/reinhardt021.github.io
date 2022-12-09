@@ -1,24 +1,24 @@
 ---
-layout: page
-title: Blog
+layout: default
+title: Logs
 ---
 
-<h1>AMOR FATI</h1>
-<blockquote>
-    Love of Fate.
-    A summary of what life has brought me and more importantly my thoughts about it.
-    Hint: it isn't always sunny.
-</blockquote>
-<hr/>
+<!--<h1>AMOR FATI</h1>-->
+<!--<blockquote>-->
+    <!--Love of Fate.-->
+    <!--A summary of what life has brought me and more importantly my thoughts about it.-->
+    <!--Hint: it isn't always sunny.-->
+<!--</blockquote>-->
+<!--<hr/>-->
 
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h2>
+    </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
@@ -29,7 +29,7 @@ title: Blog
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ page.url }}/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="{{ page.url }}/{{paginator.next_page}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
@@ -37,7 +37,7 @@ title: Blog
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="{{ page.url }}">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ page.url }}/page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ page.url }}/{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
