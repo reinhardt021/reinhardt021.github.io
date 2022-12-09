@@ -261,7 +261,7 @@ a.sidebar-nav-item:focus {
 
 .socials {
     display: inline;
-    margin: 0;
+    margin: 0 0.25em;
 }
 
 body {
