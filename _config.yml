@@ -30,12 +30,14 @@ author:
 
 
 # Custom vars
-version:          2.1.0
-twitter:          https://twitter.com/reinhardt021
-mygithub:           https://github.com/reinhardt021
-linkedin:         https://linkedin.com/in/reinhardtcagara
+version: 2.1.0
+twitter: https://twitter.com/reinhardt021
+mygithub: https://github.com/reinhardt021
+linkedin: https://linkedin.com/in/reinhardtcagara
+resume: https://www.dropbox.com/s/ecl4kvatqa54drt/ReinhardtCagara.pdf?dl=0
 
 github:
+  link: https://github.com/reinhardt021
   repo:           https://github.com/reinhardt021/reinhardt021.github.io
 
 kramdown:
