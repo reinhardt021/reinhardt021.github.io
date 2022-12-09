@@ -14,6 +14,7 @@ permalink: /x
 ```
 🌀 MANTRAS
 - ENJOY the STRUGGLE
+- AMOR FATI: Love of Fate whatever that may be. The Obstacle is the way
 - Every situation is what you make of it.
   So make the most of it.
 - Start wherever you are right now &
