@@ -107,7 +107,7 @@ Alternatively, you can find me ...
 ]({{site.twitter}})
 [
     ![Github]({{ site.baseurl }}/public/icons8-github-50.svg){: .socials#github}
-]({{site.mygithub}})
+]({{site.github.link}})
 [
     ![LinkedIn]({{ site.baseurl }}/public/icons8-linkedin-circled-50.svg){: .socials#linkedin}
 ]({{site.linkedin}})
