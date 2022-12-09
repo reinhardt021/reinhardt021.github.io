@@ -8,14 +8,12 @@ permalink: /about
 <!--{:.main-title}-->
 
 > Born in the East, forged in the West.  
-> Making a mess in all corners of the world.
-
-## 🛠 PROJECTS
-> Things I've had a little fun building 
+> Making a mess in all corners of the world.  
+> "We shape our tools, and then our tools shape us" 
 
 <!-- # [Rotten Mangoed](http://rotten-mangoed.herokuapp.com/) -->
 <!--### [Rotten Mangoed](https://github.com/reinhardtcgr/rotten_mangoes)-->
-### ROTTEN MANGOED [ ![Github]({{ site.baseurl }}/public/icons8-github-25.svg){: .socials#github} ]({{ site.mygithub }}/rotten_mangoes)
+### project: ROTTEN MANGOED [ ![Github]({{ site.baseurl }}/public/icons8-github-25.svg){: .socials#github} ]({{ site.mygithub }}/rotten_mangoes)
 {:.projects}
 > Collaborative Movie Database
 
@@ -32,7 +30,7 @@ permalink: /about
 
 <!-- # [Minimalist Music](https://minimalist-music.herokuapp.com/) -->
 <!--### [Minimalist Music](https://github.com/reinhardtcgr/music_wall_app)-->
-### MINIMALIST MUSIC [ ![Github]({{ site.baseurl }}/public/icons8-github-25.svg){: .socials#github} ]({{ site.mygithub }}/music_wall_app)
+### project: MINIMALIST MUSIC [ ![Github]({{ site.baseurl }}/public/icons8-github-25.svg){: .socials#github} ]({{ site.mygithub }}/music_wall_app)
 {:.projects}
 > Minimalist Music wall available for the public
 
@@ -47,7 +45,7 @@ permalink: /about
 
 <!-- # [Confidant](https://confidant.herokuapp.com/) -->
 <!--### [Confidant](https://github.com/reinhardtcgr/confidant)-->
-### CONFIDANT [ ![Github]({{ site.baseurl }}/public/icons8-github-25.svg){: .socials#github} ]({{ site.mygithub }}/confidant)
+### project: CONFIDANT [ ![Github]({{ site.baseurl }}/public/icons8-github-25.svg){: .socials#github} ]({{ site.mygithub }}/confidant)
 {:.projects}
 > public phone book / contact list type app
 
@@ -61,7 +59,7 @@ permalink: /about
 
 <!-- # [Finstagram](live URL here) -->
 <!--### [Finstagram](https://github.com/reinhardtcgr/finstagram)-->
-### FINSTAGRAM [ ![Github]({{ site.baseurl }}/public/icons8-github-25.svg){: .socials#github} ]({{ site.mygithub }}/finstagram)
+### project: FINSTAGRAM [ ![Github]({{ site.baseurl }}/public/icons8-github-25.svg){: .socials#github} ]({{ site.mygithub }}/finstagram)
 {:.projects}
 > Fish-themed Instagram clone
 
