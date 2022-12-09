@@ -4,6 +4,9 @@
 markdown:         kramdown
 highlighter:      pygments
 
+paginate:         3
+paginate_path: "/blog/:num"
+
 # Permalinks
 #permalink:        pretty
 permalink:        /:year/:month/:day/:title/
@@ -25,8 +28,6 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         3
-#paginate_path: "/blog/page:num/"
 
 # Custom vars
 version:          2.1.0
