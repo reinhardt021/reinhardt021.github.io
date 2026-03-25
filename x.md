@@ -264,14 +264,14 @@ permalink: /x
 :: [Neuroscience News](https://neurosciencenews.com/)
 
 
-**MUSE**
+**CRAFT-MUSE**
 * [Entrepreneur](http://www.entrepreneur.com/)
 :: [Fast Company](http://www.fastcompany.com/)
 :: [Inc](http://www.inc.com/)
 * [Killed By Google](https://killedbygoogle.com/)
 :: [Product Hunt](https://www.producthunt.com/?ref=header_nav)
 
-**DESIGN**
+**CARFT-DESIGN**
 * [Core77 - Industrial Design](http://www.core77.com/)
 :: [Design Milk](http://www.design-milk.com/)
 :: [Dezeen](http://www.dezeen.com/)
@@ -279,6 +279,23 @@ permalink: /x
 :: [Surface Magazine](http://www.surfacemag.com/)
 :: [Dwell](https://www.dwell.com/)
 :: [99% Invisible](https://99percentinvisible.org/episodes/)
+:: https://www.yankodesign.com/
+:: https://www.designboom.com/
+
+**CRAFT-CODE**
+* https://lobste.rs/
+:: https://dev.to/
+:: https://thenextweb.com/
+:: https://www.platformer.news/
+:: https://www.geekwire.com/
+:: https://www.indiehackers.com/
+
+CRAFT-TECH
+* https://www.theverge.com/
+:: https://techcrunch.com/?guccounter=1
+:: https://www.engadget.com/?guccounter=1
+:: https://arstechnica.com/
+:: https://uncrate.com/
 
 **SIMPLIFY**
 * [Zen Habits](http://www.zenhabits.net/)
